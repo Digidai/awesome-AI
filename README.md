@@ -28,6 +28,8 @@ https://www.astria.ai/
 - Luma ai：用照片生成 3d 物体
 https://lumalabs.ai/
 
+- [OpenJobs AI](https://www.openjobs-ai.com/)
+
 ## 16 种 AI 绘画工具
 
 1. DALL-E2
