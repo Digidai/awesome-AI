@@ -1,0 +1,40 @@
+name: "\U0001F680 功能建议 / Feature Request"
+description: "提出改进建议 / Suggest improvements"
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢你的建议！请详细描述你的想法。
+        Thanks for your suggestion! Please describe your idea in detail.
+
+  - type: dropdown
+    id: suggestion-type
+    attributes:
+      label: 建议类型 / Suggestion Type
+      options:
+        - 新增分类 / New Category
+        - 优化结构 / Structure Improvement
+        - 添加功能 / Add Feature
+        - 其他 / Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 描述 / Description
+      description: "详细描述你的建议"
+      placeholder: "我建议..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: benefits
+    attributes:
+      label: 预期收益 / Expected Benefits
+      description: "这个改进会带来什么好处？"
+      placeholder: "这将会..."
+    validations:
+      required: false

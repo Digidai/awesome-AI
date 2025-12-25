@@ -1,0 +1,58 @@
+name: "\U0001F41B 链接问题 / Link Issue"
+description: "报告无效链接或错误信息 / Report broken links or incorrect information"
+title: "[Bug]: "
+labels: ["bug", "link-issue"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢你帮助我们维护链接的有效性！
+        Thanks for helping us maintain valid links!
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: 问题类型 / Issue Type
+      options:
+        - 链接失效 / Broken Link
+        - 信息错误 / Incorrect Information
+        - 工具已下线 / Tool Discontinued
+        - 定价变更 / Pricing Changed
+        - 访问性变更 / Accessibility Changed
+    validations:
+      required: true
+
+  - type: input
+    id: tool-name
+    attributes:
+      label: 工具名称 / Tool Name
+      description: "出问题的工具名称"
+      placeholder: "例如：ChatGPT"
+    validations:
+      required: true
+
+  - type: input
+    id: current-link
+    attributes:
+      label: 当前链接 / Current Link
+      description: "README 中的当前链接"
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: correct-link
+    attributes:
+      label: 正确链接 / Correct Link (如有)
+      description: "如果你知道正确的链接，请填写"
+      placeholder: "https://..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: 补充信息 / Additional Information
+      description: "其他需要说明的信息"
+    validations:
+      required: false

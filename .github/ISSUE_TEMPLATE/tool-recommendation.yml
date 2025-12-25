@@ -1,0 +1,89 @@
+name: "\U0001F4A1 工具推荐 / Tool Recommendation"
+description: "推荐一个新的 AI 工具 / Recommend a new AI tool"
+title: "[Tool]: "
+labels: ["enhancement", "new-tool"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢你推荐新工具！请填写以下信息。
+        Thanks for recommending a new tool! Please fill in the following information.
+
+  - type: input
+    id: tool-name
+    attributes:
+      label: 工具名称 / Tool Name
+      description: "AI 工具的名称"
+      placeholder: "例如：ChatGPT, Midjourney"
+    validations:
+      required: true
+
+  - type: input
+    id: tool-url
+    attributes:
+      label: 工具链接 / Tool URL
+      description: "工具的官方网站"
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: 分类 / Category
+      description: "工具属于哪个类别？"
+      options:
+        - AI 对话与智能体 / AI Chat & Agents
+        - AI 图像创作 / AI Image
+        - AI 视频制作 / AI Video
+        - AI 编程助手 / AI Coding
+        - AI 音乐与音频 / AI Music & Audio
+        - AI 办公效率 / AI Productivity
+        - 开发者工具 / Developer Tools
+        - 学习资源 / Learning Resources
+        - 其他 / Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: accessibility
+    attributes:
+      label: 访问性 / Accessibility
+      description: "工具在中国的可访问性"
+      options:
+        - 🌍 全球可用 / Global
+        - 🇨🇳 国内可用 / China Accessible
+        - 🪜 需要科学上网 / VPN Required
+    validations:
+      required: true
+
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: 定价 / Pricing
+      description: "工具的定价模式"
+      options:
+        - 💰 免费使用 / Free
+        - 💳 订阅制 / Subscription
+        - 💎 按量付费 / Pay-as-you-go
+        - 混合模式 / Mixed
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 工具描述 / Description
+      description: "简要描述这个工具的功能和特点"
+      placeholder: "这是一个..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: why-recommend
+    attributes:
+      label: 推荐理由 / Why Recommend
+      description: "为什么你认为这个工具值得收录？"
+      placeholder: "我推荐这个工具因为..."
+    validations:
+      required: false

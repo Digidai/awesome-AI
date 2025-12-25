@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "\U0001F4AC 讨论 / Discussions"
+    url: https://github.com/Digidai/awesome-AI/discussions
+    about: "有问题或想法？来讨论区交流！/ Have questions or ideas? Join our discussions!"

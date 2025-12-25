@@ -1,0 +1,59 @@
+name: Link Check
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.md'
+  pull_request:
+    branches: [main]
+    paths:
+      - '**.md'
+  schedule:
+    # 每周一 UTC 时间 00:00 运行
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --verbose --no-progress --accept 200,204,206,301,302,303,307,308,403,429,999 '*.md' './**/*.md'
+          fail: false
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+      - name: Create Issue on Failure
+        if: failure()
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: 🔗 Link Check Report
+          content-filepath: ./lychee/out.md
+          labels: |
+            bug
+            link-issue
+            automated
+
+  awesome-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install awesome-lint
+        run: npm install -g awesome-lint
+
+      - name: Run awesome-lint
+        run: awesome-lint || true
+        continue-on-error: true
