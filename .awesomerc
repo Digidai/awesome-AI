@@ -1,0 +1,22 @@
+{
+  "rules": {
+    "list-item": false,
+    "toc": false,
+    "badge": true,
+    "license": true,
+    "contributing": true,
+    "code-of-conduct": true,
+    "github": true,
+    "spell-check": false
+  },
+  "options": {
+    "allowDuplicates": true,
+    "allowNonGitHub": true
+  },
+  "ignore": [
+    "node_modules/**",
+    ".github/**",
+    "*.yml",
+    "*.yaml"
+  ]
+}

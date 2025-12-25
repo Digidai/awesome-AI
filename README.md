@@ -1,12 +1,14 @@
 # Awesome AI 工具库
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Tools](https://img.shields.io/badge/Tools-750+-blue?style=flat-square)](README.md)
+[![Categories](https://img.shields.io/badge/Categories-50+-green?style=flat-square)](README.md)
 [![GitHub stars](https://img.shields.io/github/stars/Digidai/awesome-AI?style=social)](https://github.com/Digidai/awesome-AI/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Digidai/awesome-AI?style=social)](https://github.com/Digidai/awesome-AI/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/Digidai/awesome-AI)](https://github.com/Digidai/awesome-AI/issues)
 [![GitHub license](https://img.shields.io/github/license/Digidai/awesome-AI)](https://github.com/Digidai/awesome-AI/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Digidai/awesome-AI/pulls)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12-blue.svg)](https://github.com/Digidai/awesome-AI)
+[![Last Updated](https://img.shields.io/badge/Updated-2025--12--25-blue.svg)](https://github.com/Digidai/awesome-AI)
 
 [English](README_EN.md) | 中文
 
@@ -84,8 +86,16 @@
 - [AI 硬件与芯片](#-ai-硬件与芯片)
 - [AI 人形机器人](#-ai-人形机器人)
 - [AI 语音助手](#-ai-语音助手)
+- [AI 伦理与负责任 AI](#%EF%B8%8F-ai-伦理与负责任-ai)
+- [AI 评估与基准](#-ai-评估与基准)
 - [学习资源](#-学习资源)
-- [使用指南](#️-使用指南)
+- [使用指南](#%EF%B8%8F-使用指南)
+
+**附录**
+- [图标说明](#图标说明)
+- [参考资料](#-参考资料)
+- [贡献指南](#-贡献)
+- [License](#-license)
 
 ---
 
@@ -162,6 +172,30 @@
 | **腾讯混元** 🌟 | 腾讯出品 | 开源可商用，图像理解能力强 | 💰 | [hunyuan.tencent.com](https://hunyuan.tencent.com/) |
 | **百川智能** 🌟 | 王小川创立 | 开源模型质量高，知识问答能力强 | 💰 | [baichuan-ai.com](https://www.baichuan-ai.com/) |
 | **MiniMax** | 专注多模态 | 海螺AI背后技术方，语音对话自然 | 💰 | [minimax.chat](https://www.minimax.chat/) |
+
+### 主流 LLM 能力对比
+
+> 基于 LMSYS Arena ELO 排名和 Artificial Analysis 数据 (2025年12月)
+
+| 模型 | 厂商 | Arena ELO | 上下文 | 特长领域 | 价格/1M tokens |
+|------|------|-----------|--------|----------|---------------|
+| **GPT-4o** | OpenAI | 1288 | 128K | 多模态、推理 | $2.5-10 |
+| **Claude 3.5 Sonnet** | Anthropic | 1269 | 200K | 编程、长文本 | $3-15 |
+| **Gemini 1.5 Pro** | Google | 1260 | 2M | 超长上下文 | $1.25-5 |
+| **DeepSeek V3** 🔥 | DeepSeek | 1256 | 64K | 推理、数学 | **$0.27-1.1** |
+| **Qwen2.5-Max** | Alibaba | 1250 | 128K | 中文、开源 | 💰免费 |
+| **Claude 3 Opus** | Anthropic | 1248 | 200K | 复杂分析 | $15-75 |
+| **GPT-4 Turbo** | OpenAI | 1245 | 128K | 通用能力 | $10-30 |
+| **Llama 3.3 70B** 🌟 | Meta | 1210 | 128K | 开源首选 | 💰免费(开源) |
+| **Grok-2** | xAI | 1200 | 128K | 实时信息 | 💳订阅 |
+| **Mixtral 8x22B** 🌟 | Mistral | 1180 | 64K | 开源MoE | 💰免费(开源) |
+
+> 💡 **选型建议**：
+> - **性价比最高**：DeepSeek V3（仅 $0.27/1M tokens，能力接近 GPT-4）
+> - **编程首选**：Claude 3.5 Sonnet（代码生成和理解能力最强）
+> - **超长文档**：Gemini 1.5 Pro（200万 tokens 上下文）
+> - **开源部署**：Llama 3.3 70B 或 Qwen2.5-72B（可本地运行）
+> - **中文优化**：豆包/Kimi/DeepSeek（国产模型中文表现优异）
 
 ### 专业领域 AI
 
@@ -256,6 +290,10 @@
 | **Alpha3D** | 图像转3D，电商产品建模 | 🌍 | 💳 | [alpha3d.io](https://www.alpha3d.io/) |
 | **Kaedim** | 图像转3D，游戏资产 | 🌍 | 💳 | [kaedim3d.com](https://www.kaedim3d.com/) |
 | **CSM.ai** | 世界模型，场景生成 | 🌍 | 💳 | [csm.ai](https://csm.ai/) |
+| **Hunyuan3D** 🇨🇳🆕 | 腾讯开源3D生成模型，单图生成高质量3D | 🇨🇳 | 💰 | [hunyuan.tencent.com](https://hunyuan.tencent.com/) |
+| **DeepMotion** | AI动作捕捉，视频转3D动画 | 🌍 | 💳 | [deepmotion.com](https://www.deepmotion.com/) |
+| **NeRF Studio** 🌟 | 神经辐射场工具包，场景重建 | 🌍 | 💰 | [nerf.studio](https://docs.nerf.studio/) |
+| **3D AI Studio** | AI生成3D模型/纹理/地形 | 🌍 | 💳 | [3daistudio.com](https://www.3daistudio.com/) |
 
 ---
 
@@ -347,6 +385,9 @@
 | **Soundraw** | 可商用，风格可定制 | 🌍 | 💳 | [soundraw.io](https://soundraw.io/) |
 | **AIVA** | 古典/电影配乐专业 | 🌍 | 💳 | [aiva.ai](https://www.aiva.ai/) |
 | **天工AI音乐** 🇨🇳🆕 | 国产AI音乐 | 🇨🇳 | 💰 | [tiangong.cn](https://www.tiangong.cn/) |
+| **Beatoven.ai** | AI配乐生成，视频/播客专用 | 🌍 | 💳 | [beatoven.ai](https://www.beatoven.ai/) |
+| **Mureka** 🇨🇳🆕 | 国产AI音乐创作，高质量歌曲生成 | 🇨🇳 | 💰 | [mureka.ai](https://mureka.ai/) |
+| **Stable Audio** 🆕 | Stability AI音频生成 | 🌍 | 💳 | [stableaudio.com](https://stableaudio.com/) |
 
 ### 语音合成与克隆
 
@@ -364,6 +405,8 @@
 | **Whisper** 🌟 | OpenAI开源语音识别 | 🌍💰 | [github.com/openai/whisper](https://github.com/openai/whisper) |
 | **Adobe Podcast** | AI音频增强去噪 | 🌍💰 | [podcast.adobe.com](https://podcast.adobe.com/) |
 | **LALAL.AI** | 专业音轨分离 | 🌍💳 | [lalal.ai](https://www.lalal.ai/) |
+| **AudioShake** | AI音轨分离，商业授权 | 🌍💳 | [audioshake.ai](https://www.audioshake.ai/) |
+| **Krisp** 🔥 | AI降噪，支持任何会议软件 | 🌍💳 | [krisp.ai](https://krisp.ai/) |
 
 ---
 
@@ -414,6 +457,10 @@
 | **Elicit** | AI研究助手，文献分析 | 🌍 | 💳 | [elicit.com](https://elicit.com/) |
 | **秘塔AI搜索** 🇨🇳🔥 | 无广告，结构化搜索 | 🇨🇳 | 💰 | [metaso.cn](https://metaso.cn/) |
 | **天工AI搜索** 🇨🇳 | 昆仑万维出品 | 🇨🇳 | 💰 | [tiangong.cn](https://www.tiangong.cn/) |
+| **Semantic Scholar** 🏆 | AI2学术搜索，1.5亿+论文 | 🌍 | 💰 | [semanticscholar.org](https://www.semanticscholar.org/) |
+| **Brave Search** | 隐私优先，无追踪 | 🌍 | 💰 | [search.brave.com](https://search.brave.com/) |
+| **Tavily** 🆕 | AI Agent专用搜索API | 🌍 | 💳 | [tavily.com](https://tavily.com/) |
+| **Devv** 🆕 | 开发者专用AI搜索 | 🌍 | 💰 | [devv.ai](https://devv.ai/) |
 
 ---
 
@@ -474,6 +521,16 @@
 | **Looka** | AI Logo设计 | 🌍💳 | [looka.com](https://looka.com/) |
 | **Brandmark** | AI品牌标识 | 🌍💳 | [brandmark.io](https://brandmark.io/) |
 | **标小智** 🇨🇳 | 国产AI Logo | 🇨🇳💰 | [logosc.cn](https://www.logosc.cn/) |
+
+### AI 设计平台
+
+| 工具 | 描述 | 访问 | 定价 | 链接 |
+|------|------|------|------|------|
+| **Adobe Firefly** 🔥 | Adobe官方生成式AI，创意云深度集成 | 🌍 | 💳 $4.99/月起 | [firefly.adobe.com](https://firefly.adobe.com/) |
+| **Designs.ai** | AI设计全套件，Logo+视频+配音 | 🌍 | 💳 | [designs.ai](https://designs.ai/) |
+| **Pixso AI** 🇨🇳🆕 | 国产协作设计工具，内置AI助手 | 🇨🇳 | 💰 | [pixso.cn](https://pixso.cn/) |
+| **Stable Diffusion WebUI** 🌟 | 开源图像生成界面，社区驱动 | 🌍 | 💰 | [github.com/AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) |
+| **Leonardo.ai** 🔥 | 游戏美术/概念设计专用 | 🌍 | 💳 | [leonardo.ai](https://leonardo.ai/) |
 
 ---
 
@@ -1366,6 +1423,40 @@
 3. **保护隐私安全**：不要上传敏感信息
 4. **善用开源方案**：Ollama + Qwen/Llama 可在本地运行AI
 5. **关注工具更新**：AI领域发展迅速
+
+---
+
+## ⚖️ AI 伦理与负责任 AI
+
+> AI 安全、可解释性、偏见检测与治理工具
+
+| 工具 | 描述 | 类型 | 访问 | 链接 |
+|------|------|------|------|------|
+| **Anthropic Constitutional AI** 🏆 | 宪法AI，Claude背后的安全对齐方法 | 框架 | 🌍 | [anthropic.com](https://www.anthropic.com/) |
+| **AI Fairness 360** 🌟 | IBM开源，偏见检测与缓解工具包 | 开源 | 🌍 | [aif360.res.ibm.com](https://aif360.res.ibm.com/) |
+| **Google What-If Tool** 🌟 | 模型公平性可视化分析 | 开源 | 🌍 | [pair-code.github.io/what-if-tool](https://pair-code.github.io/what-if-tool/) |
+| **Responsible AI Toolbox** 🌟 | 微软负责任AI工具集 | 开源 | 🌍 | [responsibleaitoolbox.ai](https://responsibleaitoolbox.ai/) |
+| **SHAP** 🌟 | 可解释AI，特征重要性分析 | 开源 | 🌍 | [shap.readthedocs.io](https://shap.readthedocs.io/) |
+| **LangSmith** 🔥 | LangChain出品，LLM应用追踪与评估 | 平台 | 🌍💳 | [smith.langchain.com](https://smith.langchain.com/) |
+| **Guardrails AI** 🆕 | LLM输出验证与安全护栏 | 开源 | 🌍 | [guardrailsai.com](https://www.guardrailsai.com/) |
+| **NeMo Guardrails** 🆕 | NVIDIA出品，对话系统安全框架 | 开源 | 🌍 | [github.com/NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) |
+
+---
+
+## 📊 AI 评估与基准
+
+> LLM 评测榜单、基准测试与质量评估
+
+| 资源 | 描述 | 类型 | 访问 | 链接 |
+|------|------|------|------|------|
+| **LMSYS Chatbot Arena** 🔥🏆 | 最权威LLM排行榜，真人盲测ELO评分 | 榜单 | 🌍 | [chat.lmsys.org](https://chat.lmsys.org/) |
+| **Open LLM Leaderboard** 🌟 | Hugging Face开放LLM榜单 | 榜单 | 🌍 | [huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) |
+| **Artificial Analysis** 🔥 | LLM性能/价格/延迟综合分析 | 分析 | 🌍 | [artificialanalysis.ai](https://artificialanalysis.ai/) |
+| **MMLU** | 多任务语言理解基准 | 基准 | 🌍 | [github.com/hendrycks/test](https://github.com/hendrycks/test) |
+| **HumanEval** | 代码生成能力评估 | 基准 | 🌍 | [github.com/openai/human-eval](https://github.com/openai/human-eval) |
+| **MT-Bench** | 多轮对话能力评估 | 基准 | 🌍 | [github.com/lm-sys/FastChat](https://github.com/lm-sys/FastChat) |
+| **SuperCLUE** 🇨🇳 | 中文大模型综合评测 | 榜单 | 🇨🇳 | [superclue.ai](https://www.superclue.ai/) |
+| **C-Eval** 🇨🇳 | 中文知识能力评估 | 基准 | 🇨🇳 | [cevalbenchmark.com](https://cevalbenchmark.com/) |
 
 ---
 

@@ -1,12 +1,14 @@
 # Awesome AI Tools
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Tools](https://img.shields.io/badge/Tools-750+-blue?style=flat-square)](README_EN.md)
+[![Categories](https://img.shields.io/badge/Categories-50+-green?style=flat-square)](README_EN.md)
 [![GitHub stars](https://img.shields.io/github/stars/Digidai/awesome-AI?style=social)](https://github.com/Digidai/awesome-AI/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Digidai/awesome-AI?style=social)](https://github.com/Digidai/awesome-AI/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/Digidai/awesome-AI)](https://github.com/Digidai/awesome-AI/issues)
 [![GitHub license](https://img.shields.io/github/license/Digidai/awesome-AI)](https://github.com/Digidai/awesome-AI/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Digidai/awesome-AI/pulls)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12-blue.svg)](https://github.com/Digidai/awesome-AI)
+[![Last Updated](https://img.shields.io/badge/Updated-2025--12--25-blue.svg)](https://github.com/Digidai/awesome-AI)
 
 English | [中文](README.md)
 
@@ -84,8 +86,16 @@ English | [中文](README.md)
 - [AI Hardware & Chips](#-ai-hardware--chips)
 - [AI Humanoid Robots](#-ai-humanoid-robots)
 - [AI Voice Assistants](#-ai-voice-assistants)
+- [AI Ethics & Responsible AI](#%EF%B8%8F-ai-ethics--responsible-ai)
+- [AI Evaluation & Benchmarks](#-ai-evaluation--benchmarks)
 - [Learning Resources](#-learning-resources)
-- [Usage Guide](#️-usage-guide)
+- [Usage Guide](#%EF%B8%8F-usage-guide)
+
+**Appendix**
+- [Icon Legend](#icon-legend)
+- [References](#-references)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
@@ -162,6 +172,30 @@ English | [中文](README.md)
 | **Tencent Hunyuan** 🌟 | Tencent | Open-source commercial, strong image understanding | 💰 | [hunyuan.tencent.com](https://hunyuan.tencent.com/) |
 | **Baichuan** 🌟 | Founded by Wang Xiaochuan | High-quality open-source, strong knowledge QA | 💰 | [baichuan-ai.com](https://www.baichuan-ai.com/) |
 | **MiniMax** | Multimodal focus | Behind Hailuo AI, natural voice dialogue | 💰 | [minimax.chat](https://www.minimax.chat/) |
+
+### LLM Capability Comparison
+
+> Based on LMSYS Arena ELO ranking and Artificial Analysis data (Dec 2025)
+
+| Model | Provider | Arena ELO | Context | Strengths | Price/1M tokens |
+|-------|----------|-----------|---------|-----------|-----------------|
+| **GPT-4o** | OpenAI | 1288 | 128K | Multimodal, Reasoning | $2.5-10 |
+| **Claude 3.5 Sonnet** | Anthropic | 1269 | 200K | Coding, Long-form | $3-15 |
+| **Gemini 1.5 Pro** | Google | 1260 | 2M | Ultra-long context | $1.25-5 |
+| **DeepSeek V3** 🔥 | DeepSeek | 1256 | 64K | Reasoning, Math | **$0.27-1.1** |
+| **Qwen2.5-Max** | Alibaba | 1250 | 128K | Chinese, Open-source | 💰Free |
+| **Claude 3 Opus** | Anthropic | 1248 | 200K | Complex analysis | $15-75 |
+| **GPT-4 Turbo** | OpenAI | 1245 | 128K | General capability | $10-30 |
+| **Llama 3.3 70B** 🌟 | Meta | 1210 | 128K | Open-source leader | 💰Free (OSS) |
+| **Grok-2** | xAI | 1200 | 128K | Real-time info | 💳Subscription |
+| **Mixtral 8x22B** 🌟 | Mistral | 1180 | 64K | Open-source MoE | 💰Free (OSS) |
+
+> 💡 **Selection Guide**:
+> - **Best Value**: DeepSeek V3 (only $0.27/1M tokens, near GPT-4 capability)
+> - **Coding First**: Claude 3.5 Sonnet (strongest code generation & understanding)
+> - **Long Documents**: Gemini 1.5 Pro (2M tokens context)
+> - **Self-hosted**: Llama 3.3 70B or Qwen2.5-72B (local deployment)
+> - **Chinese Optimized**: Doubao/Kimi/DeepSeek (excellent Chinese performance)
 
 ### Specialized AI
 
@@ -256,6 +290,10 @@ English | [中文](README.md)
 | **Alpha3D** | Image to 3D, e-commerce product modeling | 🌍 | 💳 | [alpha3d.io](https://www.alpha3d.io/) |
 | **Kaedim** | Image to 3D, game assets | 🌍 | 💳 | [kaedim3d.com](https://www.kaedim3d.com/) |
 | **CSM.ai** | World models, scene generation | 🌍 | 💳 | [csm.ai](https://csm.ai/) |
+| **Hunyuan3D** 🇨🇳🆕 | Tencent open-source 3D model, high-quality single-image 3D | 🇨🇳 | 💰 | [hunyuan.tencent.com](https://hunyuan.tencent.com/) |
+| **DeepMotion** | AI motion capture, video to 3D animation | 🌍 | 💳 | [deepmotion.com](https://www.deepmotion.com/) |
+| **NeRF Studio** 🌟 | Neural radiance field toolkit, scene reconstruction | 🌍 | 💰 | [nerf.studio](https://docs.nerf.studio/) |
+| **3D AI Studio** | AI-generated 3D models/textures/terrain | 🌍 | 💳 | [3daistudio.com](https://www.3daistudio.com/) |
 
 ---
 
@@ -347,6 +385,9 @@ English | [中文](README.md)
 | **Soundraw** | Commercial use, customizable styles | 🌍 | 💳 | [soundraw.io](https://soundraw.io/) |
 | **AIVA** | Classical/film score specialist | 🌍 | 💳 | [aiva.ai](https://www.aiva.ai/) |
 | **Tiangong AI Music** 🇨🇳🆕 | Chinese AI music | 🇨🇳 | 💰 | [tiangong.cn](https://www.tiangong.cn/) |
+| **Beatoven.ai** | AI soundtrack generation for video/podcasts | 🌍 | 💳 | [beatoven.ai](https://www.beatoven.ai/) |
+| **Mureka** 🇨🇳🆕 | Chinese AI music creation, high-quality songs | 🇨🇳 | 💰 | [mureka.ai](https://mureka.ai/) |
+| **Stable Audio** 🆕 | Stability AI audio generation | 🌍 | 💳 | [stableaudio.com](https://stableaudio.com/) |
 
 ### Voice Synthesis & Cloning
 
@@ -364,6 +405,8 @@ English | [中文](README.md)
 | **Whisper** 🌟 | OpenAI open-source speech recognition | 🌍💰 | [github.com/openai/whisper](https://github.com/openai/whisper) |
 | **Adobe Podcast** | AI audio enhancement & denoising | 🌍💰 | [podcast.adobe.com](https://podcast.adobe.com/) |
 | **LALAL.AI** | Professional stem separation | 🌍💳 | [lalal.ai](https://www.lalal.ai/) |
+| **AudioShake** | AI stem separation, commercial licensing | 🌍💳 | [audioshake.ai](https://www.audioshake.ai/) |
+| **Krisp** 🔥 | AI noise cancellation, works with any meeting app | 🌍💳 | [krisp.ai](https://krisp.ai/) |
 
 ---
 
@@ -414,6 +457,10 @@ English | [中文](README.md)
 | **Elicit** | AI research assistant, literature analysis | 🌍 | 💳 | [elicit.com](https://elicit.com/) |
 | **Metaso** 🇨🇳🔥 | No ads, structured search | 🇨🇳 | 💰 | [metaso.cn](https://metaso.cn/) |
 | **Tiangong AI Search** 🇨🇳 | By Kunlun Tech | 🇨🇳 | 💰 | [tiangong.cn](https://www.tiangong.cn/) |
+| **Semantic Scholar** 🏆 | AI2 academic search, 150M+ papers | 🌍 | 💰 | [semanticscholar.org](https://www.semanticscholar.org/) |
+| **Brave Search** | Privacy-first, no tracking | 🌍 | 💰 | [search.brave.com](https://search.brave.com/) |
+| **Tavily** 🆕 | Search API for AI Agents | 🌍 | 💳 | [tavily.com](https://tavily.com/) |
+| **Devv** 🆕 | Developer-focused AI search | 🌍 | 💰 | [devv.ai](https://devv.ai/) |
 
 ---
 
@@ -474,6 +521,105 @@ English | [中文](README.md)
 | **Looka** | AI logo design | 🌍💳 | [looka.com](https://looka.com/) |
 | **Brandmark** | AI brand identity | 🌍💳 | [brandmark.io](https://brandmark.io/) |
 | **Biaoxiaozhi** 🇨🇳 | Chinese AI logo | 🇨🇳💰 | [logosc.cn](https://www.logosc.cn/) |
+
+### AI Design Platforms
+
+| Tool | Description | Access | Pricing | Link |
+|------|-------------|--------|---------|------|
+| **Adobe Firefly** 🔥 | Adobe's generative AI, Creative Cloud integration | 🌍 | 💳 $4.99/mo+ | [firefly.adobe.com](https://firefly.adobe.com/) |
+| **Designs.ai** | AI design suite, logo + video + voiceover | 🌍 | 💳 | [designs.ai](https://designs.ai/) |
+| **Pixso AI** 🇨🇳🆕 | Chinese collaborative design tool with AI assistant | 🇨🇳 | 💰 | [pixso.cn](https://pixso.cn/) |
+| **Stable Diffusion WebUI** 🌟 | Open-source image generation UI, community-driven | 🌍 | 💰 | [github.com/AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) |
+| **Leonardo.ai** 🔥 | Game art / concept design specialist | 🌍 | 💳 | [leonardo.ai](https://leonardo.ai/) |
+
+---
+
+## 📋 AI Project Management
+
+> AI-powered project management tools with automated tasks, intelligent planning, and real-time insights
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **ClickUp** 🔥⚡ | Most comprehensive PM, ClickUp Brain neural network | Task linking, document association, auto progress updates, AI drafting | 🌍 | 💳 $7/mo+ | [clickup.com](https://clickup.com/) |
+| **Monday.com** 🏆 | Best visualization, Monday Magic text-to-project | AI-generated project structure, workflow automation, real-time insights | 🌍 | 💳 $9/mo+ | [monday.com](https://monday.com/) |
+| **Asana** | Easiest to learn, Asana Intelligence smart status | AI project status reports, smart field suggestions, risk identification | 🌍 | 💳 $11/mo+ | [asana.com](https://asana.com/) |
+| **Notion** 🔥 | Most flexible customization, AI + knowledge base + PM | Smart summaries, content suggestions, meeting notes extraction | 🌍 | 💳 $10/mo+ | [notion.so](https://www.notion.so/) |
+| **Linear** 🆕 | Developer team favorite, ultra-fast response | Auto task assignment, smart prioritization | 🌍 | 💳 | [linear.app](https://linear.app/) |
+| **Taskade** | Lightweight AI collaboration | AI-generated tasks, mind maps, workflows | 🌍 | 💳 | [taskade.com](https://www.taskade.com/) |
+| **Feishu** 🇨🇳 | ByteDance, integrated OKR | Miaoji AI meetings, smart scheduling | 🇨🇳 | 💰 | [feishu.cn](https://www.feishu.cn/) |
+
+---
+
+## 💼 AI CRM & Sales
+
+> 61% of enterprises plan to integrate AI into CRM within 3 years, AI-driven sales efficiency doubles
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Salesforce Einstein** 🏆🏢 | Enterprise CRM leader, AI capability 9.5/10 | Predictive lead scoring, deal prioritization, email generation, call summaries | 🌍 | 💳 $25-150/mo | [salesforce.com](https://www.salesforce.com/) |
+| **HubSpot** 🔥 | SMB favorite, Breeze AI suite | Task management, workflow automation, CRM data enrichment | 🌍 | 💰 Free+ | [hubspot.com](https://www.hubspot.com/) |
+| **Pipedrive** | Sales team focused, kanban CRM | Win probability prediction, inactive deal detection, smart reminders | 🌍 | 💳 $15-39/mo | [pipedrive.com](https://www.pipedrive.com/) |
+| **Clay** 🔥🆕 | Data enrichment wizard, SDR essential | Real-time data scraping, funding/personnel signals, auto updates | 🌍 | 💳 | [clay.com](https://www.clay.com/) |
+| **Apollo.io** | Sales intelligence platform | Prospect discovery, email sequences, data enrichment | 🌍 | 💰 Free+ | [apollo.io](https://www.apollo.io/) |
+| **Gong** 🏢 | Revenue intelligence platform | Call analysis, deal insights, sales coaching | 🌍 | 💳 | [gong.io](https://www.gong.io/) |
+| **Fxiaoke** 🇨🇳 | China CRM leader | AI lead scoring, smart calling | 🇨🇳 | 💳 | [fxiaoke.com](https://www.fxiaoke.com/) |
+
+---
+
+## 📱 AI Social Media Management
+
+> 2025 sees AR/VR immersive social experiences, AI personalized content becomes standard
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Hootsuite** 🏆 | Most popular, acquired Talkwalker in 2024 | OwlyWriter AI copy generation, AI chatbot 80% auto-reply | 🌍 | 💳 $99/mo+ | [hootsuite.com](https://www.hootsuite.com/) |
+| **Sprout Social** 🏢 | Enterprise analytics, TrustRadius 2025 Best | Sentiment analysis, competitive benchmarking, best post times, AI tag suggestions | 🌍 | 💳 Premium | [sproutsocial.com](https://sproutsocial.com/) |
+| **Buffer** 💰 | Most affordable, small team friendly | Predictive engagement analytics, AI assistant creative generation | 🌍 | 💰 Free/$6/mo | [buffer.com](https://buffer.com/) |
+| **Later** | Visual-first, Instagram/TikTok expert | AI best post times, hashtag suggestions, link optimization | 🌍 | 💳 | [later.com](https://later.com/) |
+| **FeedHive** 🆕 | AI-native social tool | Content recycling, viral prediction, conditional branching posts | 🌍 | 💳 | [feedhive.com](https://www.feedhive.com/) |
+| **Newrank** 🇨🇳 | China new media platform | Trend tracking, content analysis | 🇨🇳 | 💳 | [newrank.cn](https://www.newrank.cn/) |
+
+---
+
+## 🔧 AI Low-code/No-code
+
+> Build apps with AI, no programming required
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Bubble** 🏆 | Highest rated (4.0), 6300+ integrations | AI features included free, full-stack app building | 🌍 | 💳 $29-349/mo | [bubble.io](https://bubble.io/) |
+| **Webflow** 🔥 | Designer favorite, $4B valuation | AI assistant styles/animations, AI blog writing + SEO | 🌍 | 💳 $14-39/mo | [webflow.com](https://webflow.com/) |
+| **Retool** 🏢 | Internal tools expert | Drag-and-drop building, database connections, enterprise-grade | 🌍 | 💰 Free/$49/mo | [retool.com](https://retool.com/) |
+| **FlutterFlow** | Mobile-first choice | Native features like camera access, Flutter output | 🌍 | 💳 | [flutterflow.io](https://flutterflow.io/) |
+| **Softr** | Airtable/Sheets apps | Data to web apps, customer portals | 🌍 | 💳 | [softr.io](https://www.softr.io/) |
+| **Base44** 🆕 | All-in-one AI building | Describe idea, auto-generate app, no external services needed | 🌍 | 💳 | [base44.com](https://base44.com/) |
+| **Qingflow** 🇨🇳 | China no-code platform | Enterprise business applications | 🇨🇳 | 💳 | [qingflow.com](https://qingflow.com/) |
+
+---
+
+## 🛒 AI E-commerce & Retail
+
+> AI e-commerce market $9B in 2025, 24% annual growth, AI-implemented companies see 30-40% sales increase
+
+### Personalization & Recommendations
+
+| Tool | Description | Access | Pricing | Link |
+|------|-------------|--------|---------|------|
+| **Dynamic Yield** 🏆 | Mastercard subsidiary, real-time behavior analysis | 🌍 | 💳 | [dynamicyield.com](https://www.dynamicyield.com/) |
+| **Bloomreach** 🏆 | Loomi AI engine, enterprise choice, +30% revenue | 🌍 | 💳 | [bloomreach.com](https://www.bloomreach.com/) |
+| **Vue.ai** | Computer vision + NLP, fashion/home specialist | 🌍 | 💳 | [vue.ai](https://vue.ai/) |
+| **Algonomy** | Real-time product discovery, ML recommendations | 🌍 | 💳 | [algonomy.com](https://www.algonomy.com/) |
+| **Nosto** | E-commerce personalization, easy to use | 🌍 | 💳 | [nosto.com](https://www.nosto.com/) |
+| **Insider** 🔥 | Smart recommendations, Avon AOV +11% | 🌍 | 💳 | [useinsider.com](https://useinsider.com/) |
+| **Clerk.io** | SMB AI search and recommendations | 🌍 | 💳 | [clerk.io](https://www.clerk.io/) |
+
+### Visual Search & Discovery
+
+| Tool | Description | Access | Link |
+|------|-------------|--------|------|
+| **Syte** | Computer vision, upload image to find similar products | 🌍💳 | [syte.ai](https://www.syte.ai/) |
+| **Klevu** | AI search, regional preference adaptation | 🌍💳 | [klevu.com](https://www.klevu.com/) |
+| **Fast Simon** | E-commerce search + merchandising | 🌍💳 | [fastsimon.com](https://www.fastsimon.com/) |
 
 ---
 
@@ -609,6 +755,64 @@ English | [中文](README.md)
 
 ---
 
+## 🛡️ AI Insurtech
+
+> AI insurance market reaches $45.7B by 2031, CAGR 32.56%, AI reduces fraud by 30%
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Shift Technology** 🏆 | 100+ insurers use, largest insurance AI data science team | Real-time risk scoring, fraud detection, 30% faster underwriting | 🌍 | 💳 | [shift-technology.com](https://www.shift-technology.com/) |
+| **Sprout.ai** 🔥 | Claims/underwriting AI super engine | 40% underwriting cost savings, fair claims | 🌍 | 💳 | [sprout.ai](https://sprout.ai/) |
+| **Zelros** | CRM integration, 25% faster decisions | Better quote selection, personalized recommendations | 🌍 | 💳 | [zelros.com](https://www.zelros.com/) |
+| **Planck** | Commercial insurance, scans 50+ public sources | Risk assessment without forms | 🌍 | 💳 | [planckdata.com](https://www.planckdata.com/) |
+| **Federato** | RiskOps platform | Real-time risk selection, portfolio management | 🌍 | 💳 | [federato.ai](https://www.federato.ai/) |
+| **Gradient AI** | Workers' comp/commercial auto specialist | Trained on millions of policies | 🌍 | 💳 | [gradientai.com](https://www.gradientai.com/) |
+| **Sixfold** 🆕 | Generative AI underwriting | 8-9 week deployment, efficiency transparency | 🌍 | 💳 | [sixfold.ai](https://www.sixfold.ai/) |
+| **Lemonade** 🔥 | Consumer insurance innovator | 3-second claims record, 18 anti-fraud algorithms | 🌍 | 💳 | [lemonade.com](https://www.lemonade.com/) |
+
+---
+
+## 📦 AI Supply Chain
+
+> Amazon warehouses have 520K+ AI robots, costs down 20%, capacity +40%
+
+### Demand Forecasting & Inventory
+
+| Tool | Description | AI Features | Access | Link |
+|------|-------------|-------------|--------|------|
+| **Amazon SageMaker** 🏢 | Enterprise ML platform | 95% demand forecast accuracy | 🌍💳 | [aws.amazon.com/sagemaker](https://aws.amazon.com/sagemaker/) |
+| **Blue Yonder** 🏆 | Panasonic subsidiary, supply chain leader | End-to-end optimization, intelligent fulfillment | 🌍💳 | [blueyonder.com](https://blueyonder.com/) |
+| **o9 Solutions** | AI-driven planning platform | Demand sensing, supply planning | 🌍💳 | [o9solutions.com](https://o9solutions.com/) |
+| **Kinaxis** | Supply chain orchestration | Concurrent planning, rapid response | 🌍💳 | [kinaxis.com](https://www.kinaxis.com/) |
+
+### Warehousing & Logistics
+
+| Tool | Description | AI Features | Access | Link |
+|------|-------------|-------------|--------|------|
+| **Symbotic** 🔥 | Walmart partner, warehouse automation | AI-orchestrated robotics | 🌍💳 | [symbotic.com](https://www.symbotic.com/) |
+| **Dematic** | Intelligent logistics automation | AI software coordinating warehouses | 🌍💳 | [dematic.com](https://www.dematic.com/) |
+| **AutoScheduler** | Used by PepsiCo, +12% capacity | Labor/time/space optimization | 🌍💳 | [autoscheduler.ai](https://www.autoscheduler.ai/) |
+| **FourKites** | Real-time supply chain visibility | Predictive ETA, anomaly detection | 🌍💳 | [fourkites.com](https://www.fourkites.com/) |
+| **Jusda** 🇨🇳 | Foxconn logistics tech | Smart dispatch optimization | 🇨🇳💳 | [jusda.com](https://www.jusda.com/) |
+
+---
+
+## ✈️ AI Travel & Hospitality
+
+> 2025 travel AI investment is 45% of VC, AI increases booking conversion by 20%
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Layla** 🔥🆕 | AI travel planner, trusted by millions | Complete itineraries: flights + hotels + activities + dining | 🌍 | 💰 | [layla.ai](https://layla.ai/) |
+| **Hopper** 🏆 | 95% accurate AI price predictions | "Buy/Hold/Wait" recommendations | 🌍 | 💰 | [hopper.com](https://www.hopper.com/) |
+| **Trip.com AI** | Ctrip Group, AI itinerary planning | Auto rebooking, delay handling | 🌍 | 💳 | [trip.com](https://www.trip.com/) |
+| **Navan** 🏢 | Business travel management, predictive recommendations | Cost optimization, policy compliance | 🌍 | 💳 | [navan.com](https://navan.com/) |
+| **FLYR Hospitality** | Hotel revenue management | Dynamic pricing, demand forecasting | 🌍 | 💳 | [flyrlabs.com](https://www.flyrlabs.com/) |
+| **Hilton Digital Key** | Hilton AI check-in | Mobile room selection/unlock/checkout | 🌍 | - | [hilton.com](https://www.hilton.com/) |
+| **Fliggy AI** 🇨🇳 | Alibaba travel AI assistant | Smart recommendations, itinerary planning | 🇨🇳 | 💰 | [fliggy.com](https://www.fliggy.com/) |
+
+---
+
 ## 📊 AI Data Science
 
 | Tool | Description | Access | Pricing | Link |
@@ -709,6 +913,9 @@ English | [中文](README.md)
 | **Headspace** 🔥 | 71M users in 169 countries, 4.4 stars | Ebb AI chatbot, meditation library, mental health courses | 🌍 | 💳 $12.99/mo | [headspace.com](https://www.headspace.com/) |
 | **Calm** 🏆 | App of the Year, sleep & stress expert | Breathe Bubble, Sleep Stories, personalized meditation | 🌍 | 💳 $69.99/yr | [calm.com](https://www.calm.com/) |
 | **BetterHelp** | World's largest online therapy platform | AI therapist matching, video/phone/chat sessions | 🌍 | 💳 $65-100/wk | [betterhelp.com](https://www.betterhelp.com/) |
+| **Youper** | AI mood tracking & conversations | CBT dialogue therapy, emotion journal analysis | 🌍 | 💳 | [youper.ai](https://www.youper.ai/) |
+| **Yixinli** 🇨🇳 | Chinese professional mental health | Counseling, assessments, courses | 🇨🇳 | 💳 | [xinli001.com](https://www.xinli001.com/) |
+| **Jiandan Xinli** 🇨🇳 | Leading Chinese counseling platform | AI counselor matching, online sessions | 🇨🇳 | 💳 | [jiandanxinli.com](https://www.jiandanxinli.com/) |
 
 ---
 
@@ -912,6 +1119,106 @@ English | [中文](README.md)
 
 ---
 
+## 🏛️ AI Architecture & Design
+
+> AI is revolutionizing architecture and interior design, from concept to construction
+
+### Architectural Concept Design
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Midjourney** 🏆 | Used by Zaha Hadid/MVRDV and top firms | Architectural concept visualization, style exploration | 🪜 | 💳 $10/mo+ | [midjourney.com](https://www.midjourney.com/) |
+| **Maket** 🔥 | Generate floor plans in seconds | Compliance checks, zoning adaptation, client preferences | 🌍 | 💳 | [maket.ai](https://www.maket.ai/) |
+| **ArchiGAN** 🌟 | GAN-generated architectural schemes | Rapid exploration of spatial configurations and forms | 🌍 | 💰 | [archigan.com](https://archigan.com/) |
+| **TestFit** | Rapid feasibility analysis | Site testing, parking layouts, massing | 🌍 | 💳 | [testfit.io](https://testfit.io/) |
+| **ARCHITEChTURES** | Compliant floor plan generation | Auto-satisfy regulatory requirements | 🌍 | 💳 | [architechtures.com](https://www.architechtures.com/) |
+| **Autodesk Forma** 🆕 | Early-stage site analysis | Sun, wind, energy consumption simulation | 🌍 | 💳 | [autodesk.com/forma](https://www.autodesk.com/products/forma/) |
+
+### Interior Design
+
+| Tool | Description | Access | Pricing | Link |
+|------|-------------|--------|---------|------|
+| **Planner 5D** | AI interior design, VR support | 🌍 | 💳 | [planner5d.com](https://planner5d.com/) |
+| **Homestyler** 🇨🇳 | Alibaba subsidiary, AI home design | 🇨🇳 | 💰 | [homestyler.com](https://www.homestyler.com/) |
+| **Kujiale** 🇨🇳🔥 | China home design leader | 🇨🇳 | 💳 | [kujiale.com](https://www.kujiale.com/) |
+
+### Rendering & Visualization
+
+| Tool | Description | Access | Link |
+|------|-------------|--------|------|
+| **Veras** | BIM plugin AI rendering | 🌍💳 | [evolvelab.io/veras](https://evolvelab.io/veras) |
+| **Lumion AI** | Architectural visualization | 🌍💳 | [lumion.com](https://lumion.com/) |
+| **D5 Render** 🇨🇳 | China real-time rendering | 🇨🇳💳 | [d5render.com](https://www.d5render.com/) |
+
+---
+
+## 🎮 AI Game Development
+
+> AI game dev market $3.2B in 2025, $58.8B by 2035, 90% of studios use AI
+
+### NPC Behavior & Dialogue
+
+| Tool | Description | AI Features | Access | Link |
+|------|-------------|-------------|--------|------|
+| **Inworld AI** 🔥🏆 | AI character engine, Unity/Unreal SDK | Contextual dialogue, memory system, emotional adaptation | 🌍💳 | [inworld.ai](https://www.inworld.ai/) |
+| **Convai** | Real-time AI dialogue NPCs | Free-form Q&A, contextual responses | 🌍💳 | [convai.com](https://www.convai.com/) |
+| **Unity ML-Agents** 🌟 | Unity official ML toolkit | Deep reinforcement learning, imitation learning | 🌍💰 | [unity.com/ml-agents](https://unity.com/products/machine-learning-agents) |
+| **Havok AI** | Advanced pathfinding and behavior | Complex environment NPC intelligence | 🌍💳 | [havok.com](https://www.havok.com/) |
+
+### Procedural Generation
+
+| Tool | Description | Access | Link |
+|------|-------------|--------|------|
+| **Promethean AI** 🔥 | World building automation | 🌍💳 | [prometheanai.com](https://www.prometheanai.com/) |
+| **3D AI Studio** | AI-generated 3D models/textures/terrain | 🌍💳 | [3daistudio.com](https://www.3daistudio.com/) |
+| **Houdini AI** 🏢 | Procedural game environments | 🌍💳 | [sidefx.com](https://www.sidefx.com/) |
+| **Scenario** | AI game asset generation | 🌍💳 | [scenario.com](https://www.scenario.com/) |
+
+### Engine AI Features
+
+| Engine | AI Features | Link |
+|--------|-------------|------|
+| **Unreal Engine 5** | Behavior trees, MetaHuman AI, ML integration | [unrealengine.com](https://www.unrealengine.com/) |
+| **Unity** | Muse AI, Sentis inference engine | [unity.com](https://unity.com/) |
+| **Godot** 🌟 | Open-source, AI plugin ecosystem | [godotengine.org](https://godotengine.org/) |
+
+---
+
+## 🔬 AI Research Tools
+
+> 73.6% of researchers use AI tools, can reduce literature review time by 50%
+
+### Literature Discovery & Analysis
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Elicit** 🔥🏆 | AI research assistant by Ought | Question-driven paper search, data extraction, 30% higher accuracy | 🌍 | 💰 Free+ | [elicit.com](https://elicit.com/) |
+| **Consensus** 🔥 | Evidence consensus discovery | Paper support/oppose/neutral analysis | 🌍 | 💰 Free+ | [consensus.app](https://consensus.app/) |
+| **SciSpace** | 280M papers, 90% time savings | Chat with papers, method explanations | 🌍 | 💳 | [scispace.com](https://typeset.io/) |
+| **Semantic Scholar** 🌟 | Allen AI, semantic search | AI-generated abstracts, citation analysis | 🌍 | 💰 | [semanticscholar.org](https://www.semanticscholar.org/) |
+| **Connected Papers** | Paper relationship graphs | Visual discovery of related research | 🌍 | 💳 | [connectedpapers.com](https://www.connectedpapers.com/) |
+| **Research Rabbit** | Personalized paper recommendations | Build research collections, discover new papers | 🌍 | 💰 | [researchrabbit.ai](https://www.researchrabbit.ai/) |
+| **Litmaps** | Literature maps | Seed paper discovery network | 🌍 | 💳 | [litmaps.com](https://www.litmaps.com/) |
+
+### Writing & Citations
+
+| Tool | Description | Access | Link |
+|------|-------------|--------|------|
+| **Paperpal** | Academic writing polish | 🌍💳 | [paperpal.com](https://paperpal.com/) |
+| **Writefull** | Academic English improvement | 🌍💳 | [writefull.com](https://www.writefull.com/) |
+| **Scite** | Smart citation analysis | 🌍💳 | [scite.ai](https://scite.ai/) |
+| **Zotero** 🌟 | Open-source reference manager + AI plugins | 🌍💰 | [zotero.org](https://www.zotero.org/) |
+
+### Scientific Computing
+
+| Tool | Description | Access | Link |
+|------|-------------|--------|------|
+| **Wolfram Alpha** 🏆 | Computational knowledge engine | 🌍💳 | [wolframalpha.com](https://www.wolframalpha.com/) |
+| **Julius AI** 🆕 | Data analysis AI | 🌍💳 | [julius.ai](https://julius.ai/) |
+| **Paperguide** | Full-process research assistant | 🌍💳 | [paperguide.ai](https://paperguide.ai/) |
+
+---
+
 ## 🔧 AI Hardware & Chips
 
 ### International AI Chips
@@ -1030,6 +1337,40 @@ English | [中文](README.md)
 3. **Protect Privacy**: Don't upload sensitive information
 4. **Use Open Source**: Ollama + Qwen/Llama runs AI locally
 5. **Stay Updated**: AI field evolves rapidly
+
+---
+
+## ⚖️ AI Ethics & Responsible AI
+
+> AI safety, explainability, bias detection and governance tools
+
+| Tool | Description | Type | Access | Link |
+|------|-------------|------|--------|------|
+| **Anthropic Constitutional AI** 🏆 | Constitutional AI, safety alignment method behind Claude | Framework | 🌍 | [anthropic.com](https://www.anthropic.com/) |
+| **AI Fairness 360** 🌟 | IBM open-source bias detection & mitigation toolkit | Open Source | 🌍 | [aif360.res.ibm.com](https://aif360.res.ibm.com/) |
+| **Google What-If Tool** 🌟 | Model fairness visualization analysis | Open Source | 🌍 | [pair-code.github.io/what-if-tool](https://pair-code.github.io/what-if-tool/) |
+| **Responsible AI Toolbox** 🌟 | Microsoft responsible AI toolkit | Open Source | 🌍 | [responsibleaitoolbox.ai](https://responsibleaitoolbox.ai/) |
+| **SHAP** 🌟 | Explainable AI, feature importance analysis | Open Source | 🌍 | [shap.readthedocs.io](https://shap.readthedocs.io/) |
+| **LangSmith** 🔥 | By LangChain, LLM app tracing & evaluation | Platform | 🌍💳 | [smith.langchain.com](https://smith.langchain.com/) |
+| **Guardrails AI** 🆕 | LLM output validation & safety guardrails | Open Source | 🌍 | [guardrailsai.com](https://www.guardrailsai.com/) |
+| **NeMo Guardrails** 🆕 | By NVIDIA, dialogue system safety framework | Open Source | 🌍 | [github.com/NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) |
+
+---
+
+## 📊 AI Evaluation & Benchmarks
+
+> LLM leaderboards, benchmarks and quality evaluation
+
+| Resource | Description | Type | Access | Link |
+|----------|-------------|------|--------|------|
+| **LMSYS Chatbot Arena** 🔥🏆 | Most authoritative LLM leaderboard, human blind-test ELO | Leaderboard | 🌍 | [chat.lmsys.org](https://chat.lmsys.org/) |
+| **Open LLM Leaderboard** 🌟 | Hugging Face open LLM leaderboard | Leaderboard | 🌍 | [huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) |
+| **Artificial Analysis** 🔥 | LLM performance/price/latency analysis | Analysis | 🌍 | [artificialanalysis.ai](https://artificialanalysis.ai/) |
+| **MMLU** | Massive Multitask Language Understanding | Benchmark | 🌍 | [github.com/hendrycks/test](https://github.com/hendrycks/test) |
+| **HumanEval** | Code generation capability evaluation | Benchmark | 🌍 | [github.com/openai/human-eval](https://github.com/openai/human-eval) |
+| **MT-Bench** | Multi-turn conversation evaluation | Benchmark | 🌍 | [github.com/lm-sys/FastChat](https://github.com/lm-sys/FastChat) |
+| **SuperCLUE** 🇨🇳 | Chinese LLM comprehensive evaluation | Leaderboard | 🇨🇳 | [superclue.ai](https://www.superclue.ai/) |
+| **C-Eval** 🇨🇳 | Chinese knowledge capability evaluation | Benchmark | 🇨🇳 | [cevalbenchmark.com](https://cevalbenchmark.com/) |
 
 ---
 
