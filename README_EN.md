@@ -12,7 +12,7 @@ English | [中文](README.md)
 
 > A curated collection of AI tools covering chat, creative, coding, productivity, and industry applications
 >
-> Continuously Updated | China-Accessible Options | 2025 Latest | 300+ Curated Tools | Research-Verified
+> Continuously Updated | China-Accessible Options | 2025 Latest | **700+ Curated Tools** | Research-Verified
 
 ---
 
@@ -36,19 +36,54 @@ English | [中文](README.md)
 - [AI Email Assistants](#-ai-email-assistants)
 - [AI Design Tools](#-ai-design-tools)
 
+**Enterprise & Productivity**
+- [AI Project Management](#-ai-project-management)
+- [AI CRM & Sales](#-ai-crm--sales)
+- [AI Social Media Management](#-ai-social-media-management)
+- [AI Low-code/No-code](#-ai-low-codeno-code)
+- [AI E-commerce & Retail](#-ai-e-commerce--retail)
+- [AI HR & Recruiting](#-ai-hr--recruiting)
+
 **Industry Applications**
 - [AI Marketing & SEO](#-ai-marketing--seo)
 - [AI Customer Service](#-ai-customer-service)
 - [AI Legal Tools](#-ai-legal-tools)
 - [AI Finance Tools](#-ai-finance-tools)
 - [AI Healthcare](#-ai-healthcare)
+- [AI Mental Health](#-ai-mental-health)
 - [AI Cybersecurity](#-ai-cybersecurity)
+- [AI Insurtech](#-ai-insurtech)
+- [AI Supply Chain](#-ai-supply-chain)
+- [AI Travel & Hospitality](#-ai-travel--hospitality)
 - [AI Data Science](#-ai-data-science)
 - [AI Education](#-ai-education)
+
+**Industrial & Infrastructure**
+- [AI Autonomous Driving](#-ai-autonomous-driving)
+- [AI Agriculture](#-ai-agriculture)
+- [AI Energy & Climate](#-ai-energy--climate)
+- [AI Real Estate PropTech](#-ai-real-estate-proptech)
+- [AI Smart Manufacturing](#-ai-smart-manufacturing)
+
+**Enterprise Automation**
+- [AI RPA Automation](#-ai-rpa-automation)
+- [AI OCR & Document Processing](#-ai-ocr--document-processing)
+- [AI Data Labeling](#-ai-data-labeling)
+- [AI Meeting & Collaboration](#-ai-meeting--collaboration)
+
+**Creative & Professional**
+- [AI Architecture & Design](#-ai-architecture--design)
+- [AI Game Development](#-ai-game-development)
+- [AI Research Tools](#-ai-research-tools)
+- [AI Podcasting & Audio](#-ai-podcasting--audio)
+- [AI Photo Editing](#-ai-photo-editing)
 
 **Developer Resources**
 - [Developer Tools & Integrations](#-developer-tools--integrations)
 - [Open Source Models & Frameworks](#-open-source-models--frameworks)
+- [AI Hardware & Chips](#-ai-hardware--chips)
+- [AI Humanoid Robots](#-ai-humanoid-robots)
+- [AI Voice Assistants](#-ai-voice-assistants)
 - [Learning Resources](#-learning-resources)
 - [Usage Guide](#️-usage-guide)
 
@@ -603,6 +638,280 @@ English | [中文](README.md)
 | **LM Studio** | Local model client | [lmstudio.ai](https://lmstudio.ai/) |
 | **vLLM** | High-performance inference engine | [vllm.ai](https://vllm.ai/) |
 | **Jan** | Local AI client | [jan.ai](https://jan.ai/) |
+
+---
+
+## 🧠 AI Mental Health
+
+> AI mental health apps received FDA Breakthrough Device designation in 2025, reducing depression/anxiety symptoms by 27-40%
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Wysa** 🔥🏆 | FDA Breakthrough Device, 91% find helpful | CBT/DBT penguin chatbot, 150+ self-help tools | 🌍 | 💳 $9.99/mo | [wysa.com](https://www.wysa.com/) |
+| **Woebot** 🏆🌟 | Stanford psychologists designed, FDA Breakthrough | Daily CBT exercises, 10+ peer-reviewed studies, free | 🌍 | 💰 | [woebothealth.com](https://woebothealth.com/) |
+| **Headspace** 🔥 | 71M users in 169 countries, 4.4 stars | Ebb AI chatbot, meditation library, mental health courses | 🌍 | 💳 $12.99/mo | [headspace.com](https://www.headspace.com/) |
+| **Calm** 🏆 | App of the Year, sleep & stress expert | Breathe Bubble, Sleep Stories, personalized meditation | 🌍 | 💳 $69.99/yr | [calm.com](https://www.calm.com/) |
+| **BetterHelp** | World's largest online therapy platform | AI therapist matching, video/phone/chat sessions | 🌍 | 💳 $65-100/wk | [betterhelp.com](https://www.betterhelp.com/) |
+
+---
+
+## 🚗 AI Autonomous Driving
+
+> Waymo 250K+ commercial rides per week in 2025, Tesla FSD accumulated 3B+ miles driven
+
+### Autonomous Driving Systems
+
+| Platform | Description | Level | Status | Link |
+|----------|-------------|-------|--------|------|
+| **Waymo** 🏆 | Google subsidiary, L4 leader | L4 | Commercial in SF/Phoenix/LA, 250K+ weekly rides | [waymo.com](https://waymo.com/) |
+| **Tesla FSD** 🔥 | Vision AI end-to-end autonomy | L2+ | 3B+ miles driving data, continuous OTA updates | [tesla.com/autopilot](https://www.tesla.com/autopilot) |
+| **Cruise** | GM subsidiary, urban self-driving | L4 | Restructured to tech licensing model | [getcruise.com](https://www.getcruise.com/) |
+| **Mobileye** 🏆 | Intel subsidiary, ADAS chip leader | L2-L4 | 30+ car brands, SuperVision system | [mobileye.com](https://www.mobileye.com/) |
+| **Aurora** 🏢 | Trucking autonomous driving | L4 | 2025 commercial operations | [aurora.tech](https://aurora.tech/) |
+
+### China Autonomous Driving 🇨🇳
+
+| Company | Description | Features | Link |
+|---------|-------------|----------|------|
+| **Baidu Apollo** 🏆 | Luobo Kuaipao, China L4 leader | Commercial in Wuhan/Beijing, 10K+ daily orders | [apollo.auto](https://apollo.baidu.com/) |
+| **XPeng XNGP** 🔥 | Full-scenario intelligent driving | Leading city NGP expansion | [xiaopeng.com](https://www.xiaopeng.com/) |
+| **Huawei ADS** | Used by Aito/Avatr | City NCA capabilities | [huawei.com](https://www.huawei.com/) |
+
+---
+
+## 🌾 AI Agriculture
+
+> Precision agriculture AI reduces herbicide use by 90%, crop monitoring accuracy 95%+
+
+| Tool | Description | AI Features | Access | Link |
+|------|-------------|-------------|--------|------|
+| **Taranis** 🔥🏆 | AI crop monitoring leader | Leaf-level precision, early pest/disease detection | 🌍💳 | [taranis.com](https://taranis.com/) |
+| **CropX** | Soil sensing + AI analysis | Precision irrigation, 30% water savings | 🌍💳 | [cropx.com](https://www.cropx.com/) |
+| **John Deere See & Spray** 🏆 | Smart weeding machine | 90% herbicide reduction | 🌍💳 | [deere.com](https://www.deere.com/) |
+| **Climate FieldView** | Bayer climate company | Data-driven planting decisions | 🌍💳 | [climate.com](https://climate.com/) |
+| **XAG** 🇨🇳🔥 | China agricultural drone leader | AI spraying, seeding, mapping | 🇨🇳💳 | [xa.com](https://www.xa.com/) |
+
+---
+
+## ⚡ AI Energy & Climate
+
+> AI energy management saves 30-50% energy, carbon tracking market reaches $28B by 2030
+
+### Carbon Management
+
+| Tool | Description | AI Features | Access | Link |
+|------|-------------|-------------|--------|------|
+| **Watershed** 🔥🏆 | Enterprise carbon management leader | Auto carbon footprint, compliance reports, reduction path | 🌍💳 | [watershed.com](https://watershed.com/) |
+| **Persefoni** | Carbon accounting platform | Automated carbon accounting, portfolio analysis | 🌍💳 | [persefoni.com](https://persefoni.com/) |
+
+### Energy Optimization
+
+| Tool | Description | AI Features | Access | Link |
+|------|-------------|-------------|--------|------|
+| **Kraken Technologies** 🔥🏆 | Octopus Energy tech | AI grid management, 54M accounts in 17 countries | 🌍💳 | [kraken.tech](https://kraken.tech/) |
+| **Stem Athena** | Storage AI optimization | Energy arbitrage, demand response | 🌍💳 | [stem.com](https://www.stem.com/) |
+
+---
+
+## 🏠 AI Real Estate PropTech
+
+> PropTech market reaches $94.2B by 2030, AI improves valuation accuracy by 40%
+
+| Tool | Description | AI Features | Access | Link |
+|------|-------------|-------------|--------|------|
+| **Zillow Zestimate** 🏆 | Property valuation AI | 150M+ property valuations updated monthly | 🌍💰 | [zillow.com](https://www.zillow.com/) |
+| **Matterport** 🔥🏆 | 3D spatial scanning | AI-driven digital twin, virtual tours | 🌍💳 | [matterport.com](https://matterport.com/) |
+| **EliseAI** | Property management AI | Automated tenant communication, leasing assistant | 🌍💳 | [eliseai.com](https://www.eliseai.com/) |
+| **Beike/KE** 🇨🇳🔥 | China PropTech leader | VR tours, AI pricing, smart matching | 🇨🇳💰 | [ke.com](https://www.ke.com/) |
+
+---
+
+## 🏭 AI Smart Manufacturing
+
+> Industry 4.0 market reaches $47.8B by 2030, AI predictive maintenance 87%+ accuracy
+
+### Predictive Maintenance
+
+| Tool | Description | AI Features | Access | Link |
+|------|-------------|-------------|--------|------|
+| **Uptake** 🏆 | Industrial AI platform | Asset health scoring, failure prediction | 🌍💳 | [uptake.com](https://www.uptake.com/) |
+| **C3.ai** 🔥 | Enterprise AI suite | Manufacturing optimization, supply chain, energy | 🌍💳 | [c3.ai](https://c3.ai/) |
+| **Siemens MindSphere** 🏢 | Industrial IoT platform | Digital twin, asset management | 🌍💳 | [siemens.com/mindsphere](https://siemens.mindsphere.io/) |
+
+### Quality Control
+
+| Tool | Description | AI Features | Access | Link |
+|------|-------------|-------------|--------|------|
+| **Landing AI** 🔥 | Visual inspection platform | Few-shot learning, defect detection | 🌍💳 | [landing.ai](https://landing.ai/) |
+| **Cognex ViDi** 🏆 | Industrial vision AI | Deep learning defect detection | 🌍💳 | [cognex.com](https://www.cognex.com/) |
+
+---
+
+## 🤖 AI RPA Automation
+
+> RPA market reaches $23.3B by 2030, AI+RPA automates 60%+ white-collar work
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **UiPath** 🏆 | RPA market leader | AI-driven process discovery, intelligent document processing | 🌍 | 💳 | [uipath.com](https://www.uipath.com/) |
+| **Automation Anywhere** 🔥 | Intelligent automation platform | IQ Bot document AI, AARI human-bot collaboration | 🌍 | 💳 | [automationanywhere.com](https://www.automationanywhere.com/) |
+| **Microsoft Power Automate** 🏆 | Low-code automation | Copilot AI flow creation, 365 deep integration | 🌍 | 💳 $15/mo+ | [powerautomate.microsoft.com](https://powerautomate.microsoft.com/) |
+| **Zapier** 🔥 | App connection automation | 7000+ app integrations, AI builder | 🌍 | 💳 $19.99/mo+ | [zapier.com](https://zapier.com/) |
+| **n8n** 🌟 | Open-source workflow automation | Self-hosted, AI node support | 🌍 | 💰 | [n8n.io](https://n8n.io/) |
+
+---
+
+## 📄 AI OCR & Document Processing
+
+> Intelligent document processing market reaches $18B by 2030, AI OCR 99%+ accuracy
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Mistral OCR** 🆕🔥 | 2025 release, strongest OCR | Multimodal understanding, complex layouts, 99%+ accuracy | 🌍 | 💳 | [mistral.ai](https://mistral.ai/) |
+| **ABBYY** 🏆 | Enterprise document processing | FlexiCapture intelligent extraction, multi-language | 🌍 | 💳 | [abbyy.com](https://www.abbyy.com/) |
+| **Rossum** 🔥 | AI invoice processing | 276 languages, self-learning engine | 🌍 | 💳 | [rossum.ai](https://rossum.ai/) |
+| **Google Document AI** 🏢 | Cloud document AI | Form parsing, entity extraction | 🌍 | 💎 | [cloud.google.com/document-ai](https://cloud.google.com/document-ai) |
+| **Amazon Textract** | AWS document AI | Table/form/handwriting recognition | 🌍 | 💎 | [aws.amazon.com/textract](https://aws.amazon.com/textract/) |
+
+---
+
+## 🏷️ AI Data Labeling
+
+> Data labeling market reaches $29B by 2032, Scale AI valued at $13.8B
+
+| Tool | Description | AI Features | Access | Link |
+|------|-------------|-------------|--------|------|
+| **Scale AI** 🏆 | Industry leader, $13.8B valuation | Self-driving/government/enterprise AI data | 🌍💳 | [scale.com](https://scale.com/) |
+| **Labelbox** 🔥 | End-to-end data platform | Collaborative labeling, model-assisted labeling | 🌍💳 | [labelbox.com](https://labelbox.com/) |
+| **Snorkel AI** 🔥 | Programmatic labeling | Weak supervision, reduced labeling needs | 🌍💳 | [snorkel.ai](https://snorkel.ai/) |
+| **CVAT** 🌟 | Intel open-source labeling tool | Video/image labeling, self-hosted | 🌍💰 | [cvat.ai](https://www.cvat.ai/) |
+
+---
+
+## 📹 AI Meeting & Collaboration
+
+> AI meeting assistant market reaches $5.8B by 2026, saves 50% meeting time
+
+### Meeting Transcription
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Otter.ai** 🏆 | Real-time transcription leader | Multi-speaker recognition, live captions | 🌍 | 💳 $16.99/mo | [otter.ai](https://otter.ai/) |
+| **Fireflies.ai** 🔥 | Auto meeting recording | 69 languages, CRM integration, AI search | 🌍 | 💳 $18/mo | [fireflies.ai](https://fireflies.ai/) |
+| **Fathom** | Zoom meeting assistant | Free, real-time highlights, quick summaries | 🌍 | 💰 | [fathom.video](https://fathom.video/) |
+| **Krisp** 🔥 | Noise cancellation + recording | No bot joins, leading noise reduction | 🌍 | 💳 $12/mo | [krisp.ai](https://krisp.ai/) |
+
+### Collaboration & Notes
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Notion AI** 🔥🏆 | AI-enhanced notes | Writing assist, summaries, translation | 🌍 | 💳 $10/mo | [notion.so](https://www.notion.so/) |
+| **Mem** 🆕 | AI knowledge management | Auto organization, smart search | 🌍 | 💳 | [mem.ai](https://mem.ai/) |
+| **Feishu Miaoji** 🇨🇳🔥 | ByteDance meeting AI | Chinese transcription, smart summaries | 🇨🇳 | 💳 | [feishu.cn](https://www.feishu.cn/) |
+
+---
+
+## 🎙️ AI Podcasting & Audio
+
+> AI podcast tools save 50%+ production time, transcription accuracy 95-98%
+
+### Podcast Recording & Editing
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Descript** 🔥🏆 | Podcast editing revolutionizer | Text-based audio editing, auto denoise, Overdub voice clone | 🌍 | 💳 $12/mo+ | [descript.com](https://www.descript.com/) |
+| **Riverside.fm** 🔥 | Remote recording expert | 4K video + HD audio, Magic Editor AI | 🌍 | 💳 $15/mo+ | [riverside.fm](https://riverside.fm/) |
+| **Podcastle** | All-in-one podcast platform | AI voice cloning, Magic Dust audio enhancement | 🌍 | 💳 | [podcastle.ai](https://podcastle.ai/) |
+| **Adobe Podcast** 🆕 | Adobe audio AI | One-click audio enhancement, transcription | 🌍 | 💰 | [podcast.adobe.com](https://podcast.adobe.com/) |
+
+### Podcast Content Creation
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Castmagic** 🔥 | Content repurposing wizard | Auto-generate tweets/LinkedIn posts/summaries/timestamps | 🌍 | 💳 $23/mo+ | [castmagic.io](https://www.castmagic.io/) |
+| **NotebookLM** 🆕🔥 | Google AI podcasts | Upload docs to auto-generate podcast conversations | 🌍 | 💰 | [notebooklm.google](https://notebooklm.google/) |
+
+---
+
+## 📸 AI Photo Editing
+
+> AI photo editing market reaches $1.1B by 2030, reduces 80% manual editing time
+
+### Professional Photo Enhancement
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Luminar Neo** 🔥🏆 | Skylum, beginner-friendly | Sky AI replace, GenErase removal, 6x Upscale | 🌍 | 💳 $9.95/mo | [skylum.com](https://skylum.com/luminar) |
+| **Topaz Photo AI** 🏆 | Technical quality expert | Best-in-class denoise/sharpen/upscale, 600% lossless upscale | 🌍 | 💳 $199/yr | [topazlabs.com](https://www.topazlabs.com/) |
+| **Adobe Lightroom AI** | Professional workflow | Denoise, content-aware removal | 🌍 | 💳 $9.99/mo | [adobe.com/lightroom](https://www.adobe.com/products/photoshop-lightroom.html) |
+
+### Photo Restoration & Enhancement
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Remini** 🔥 | Old photo restoration expert | Face enhancement, old photo restoration | 🌍 | 💳 | [remini.ai](https://remini.ai/) |
+| **Photoshop AI** 🏆 | Industry standard | Generative fill, neural filters | 🌍 | 💳 $22.99/mo | [adobe.com/photoshop](https://www.adobe.com/products/photoshop.html) |
+| **Remove.bg** | One-click cutout | AI background removal | 🌍 | 💳 | [remove.bg](https://www.remove.bg/) |
+
+---
+
+## 🔧 AI Hardware & Chips
+
+### International AI Chips
+
+| Chip/Vendor | Description | Specs | Use Case |
+|-------------|-------------|-------|----------|
+| **NVIDIA H200** 🏆 | Hopper architecture upgrade | 141GB HBM3e, 4.8TB/s bandwidth | Large-scale AI training |
+| **NVIDIA Blackwell B200** 🆕 | 2025 flagship | 192GB, 8TB/s bandwidth, 30x efficiency | Next-gen AI training |
+| **AMD MI300X** 🔥 | NVIDIA challenger | 192GB HBM3 (more than H100) | Meta 100% Llama 405B traffic |
+| **Intel Gaudi 3** | Cost-effective choice | 30-40% cheaper than H100 | Large-scale deployment |
+
+### China AI Chips 🇨🇳
+
+| Chip/Vendor | Description | Features | Market Position |
+|-------------|-------------|----------|-----------------|
+| **Huawei Ascend 910C** 🔥🏆 | 2025 Q1 production, 79% computing center share | CANN ecosystem, self-reliant | China #1 |
+| **Cambricon MLU** | 2025H1 revenue 2.88B CNY, +4347% YoY | Neuware ecosystem, inference cards | Tier 1 |
+| **Hygon DCU** | 2025H1 revenue 5.46B CNY, +45% YoY | x86/ROCm compatible | Tier 1 |
+
+---
+
+## 🤖 AI Humanoid Robots
+
+> 2025 is Year One of humanoid robots, Tesla/Figure/Agility begin scaled testing
+
+| Robot | Company | Description | Est. Price | Status |
+|-------|---------|-------------|------------|--------|
+| **Optimus Gen 3** 🔥 | Tesla | Oct 2025 kung-fu/cooking/cleaning demo, observational learning | $20K-30K | 2025 produce 5K-10K units |
+| **Figure 02** 🔥 | Figure AI | OpenAI partnership, 1.7m/70kg, 16-DOF hands | $100K+ | $1B funding 2025 |
+| **Atlas** 🏆 | Boston Dynamics | Electric version 2024, most agile | $140K-150K | 2026-2028 commercial |
+| **Digit** | Agility Robotics | Amazon warehouse use, GXO partnership | $100K+ | Commercial deployment |
+| **Unitree H1** 🇨🇳🔥 | Unitree | China leader, quadruped + humanoid | $90K | In production |
+
+---
+
+## 🗣️ AI Voice Assistants
+
+> 2025 smart voice assistant users exceed 1.4B, Alexa+ launches generative AI upgrade
+
+### Major Voice Assistants
+
+| Assistant | Platform | AI Features | Advantages | Link |
+|-----------|----------|-------------|------------|------|
+| **Amazon Alexa** 🏆 | Echo/Smart devices | Alexa+ generative AI, tens of thousands of skills | Best smart home compatibility | [alexa.amazon.com](https://alexa.amazon.com/) |
+| **Google Assistant** 🔥 | Android/Nest/Chrome | Gemini AI integration, multi-language context | Highest search accuracy | [assistant.google.com](https://assistant.google.com/) |
+| **Apple Siri** | iPhone/Mac/HomePod | Apple Intelligence on-device, screen awareness | Strongest privacy protection | [apple.com/siri](https://www.apple.com/siri/) |
+| **Microsoft Copilot** 🆕 | Windows/Edge/365 | GPT-4 integration, cross-app collaboration | Office deep integration | [copilot.microsoft.com](https://copilot.microsoft.com/) |
+
+### Smart Speakers
+
+| Device | Assistant | Features | Price | Link |
+|--------|-----------|----------|-------|------|
+| **Amazon Echo Dot 5** ⚡ | Alexa | Entry choice, improved sound | $49.99 | [amazon.com](https://www.amazon.com/dp/B09B8V1LZ3) |
+| **Google Nest Hub 2** | Google | Screen + sleep tracking | $99.99 | [store.google.com](https://store.google.com/product/nest_hub_2nd_gen) |
+| **Apple HomePod 2** | Siri | Best audio, spatial audio | $299 | [apple.com/homepod](https://www.apple.com/homepod/) |
+| **Xiaodu** 🇨🇳🔥 | Xiaodu | China leader, best Chinese experience | ¥199+ | [xiaodu.baidu.com](https://xiaodu.baidu.com/) |
+| **Tmall Genie** 🇨🇳 | Tmall Genie | Alibaba ecosystem | ¥199+ | [genie.tmall.com](https://genie.tmall.com/) |
 
 ---
 
