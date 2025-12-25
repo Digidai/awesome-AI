@@ -10,9 +10,9 @@
 
 [English](README_EN.md) | 中文
 
-> 精心策划的 AI 工具集合，涵盖对话、创作、编程、办公等全场景应用
+> 精心策划的 AI 工具集合，涵盖对话、创作、编程、办公、行业垂直等全场景应用
 >
-> 持续更新 | 国内可用方案 | 2025 最新 | 300+ 精选工具 | 深度研究验证
+> 持续更新 | 国内可用方案 | 2025 最新 | **500+ 精选工具** | 深度研究验证
 
 ---
 
@@ -36,6 +36,14 @@
 - [AI 邮件助手](#-ai-邮件助手)
 - [AI 设计工具](#-ai-设计工具)
 
+**企业与效率**
+- [AI 项目管理](#-ai-项目管理)
+- [AI CRM 与销售](#-ai-crm-与销售)
+- [AI 社交媒体管理](#-ai-社交媒体管理)
+- [AI 低代码/无代码](#-ai-低代码无代码)
+- [AI 电商与零售](#-ai-电商与零售)
+- [AI HR 与招聘](#-ai-hr-与招聘)
+
 **行业应用**
 - [AI 营销与 SEO](#-ai-营销与-seo)
 - [AI 客服与对话](#-ai-客服与对话)
@@ -43,12 +51,22 @@
 - [AI 金融工具](#-ai-金融工具)
 - [AI 医疗健康](#-ai-医疗健康)
 - [AI 网络安全](#-ai-网络安全)
+- [AI 保险科技](#-ai-保险科技)
+- [AI 供应链物流](#-ai-供应链物流)
+- [AI 旅游酒店](#-ai-旅游酒店)
 - [AI 数据科学](#-ai-数据科学)
 - [AI 教育学习](#-ai-教育学习)
+
+**创意与专业**
+- [AI 建筑设计](#-ai-建筑设计)
+- [AI 游戏开发](#-ai-游戏开发)
+- [AI 科研工具](#-ai-科研工具)
 
 **开发者资源**
 - [开发者工具与集成](#-开发者工具与集成)
 - [开源模型与框架](#-开源模型与框架)
+- [AI 硬件与芯片](#-ai-硬件与芯片)
+- [AI 人形机器人](#-ai-人形机器人)
 - [学习资源](#-学习资源)
 - [使用指南](#️-使用指南)
 
@@ -442,6 +460,111 @@
 
 ---
 
+## 📋 AI 项目管理
+
+> AI 驱动的项目管理工具，自动化任务、智能规划、实时洞察
+
+| 工具 | 描述 | AI 特色 | 访问 | 定价 | 链接 |
+|------|------|---------|------|------|------|
+| **ClickUp** 🔥⚡ | 最全能项目管理，ClickUp Brain神经网络 | 任务连接、文档关联、自动进度更新、AI草拟 | 🌍 | 💳 $7/月起 | [clickup.com](https://clickup.com/) |
+| **Monday.com** 🏆 | 最佳可视化，Monday Magic从文字生成项目 | AI生成项目结构、自动化工作流、实时洞察 | 🌍 | 💳 $9/月起 | [monday.com](https://monday.com/) |
+| **Asana** | 最易上手，Asana Intelligence智能状态 | AI项目状态报告、智能字段建议、风险识别 | 🌍 | 💳 $11/月起 | [asana.com](https://asana.com/) |
+| **Notion** 🔥 | 最灵活定制，AI+知识库+项目管理 | 智能总结、内容建议、会议纪要提取 | 🌍 | 💳 $10/月起 | [notion.so](https://www.notion.so/) |
+| **Linear** 🆕 | 开发团队首选，极速响应 | 自动任务分配、智能优先级 | 🌍 | 💳 | [linear.app](https://linear.app/) |
+| **Taskade** | 轻量级AI协作 | AI生成任务、思维导图、工作流 | 🌍 | 💳 | [taskade.com](https://www.taskade.com/) |
+| **飞书** 🇨🇳 | 字节跳动，集成OKR | 妙记AI会议、智能日程 | 🇨🇳 | 💰 | [feishu.cn](https://www.feishu.cn/) |
+
+---
+
+## 💼 AI CRM 与销售
+
+> 61%企业计划3年内将AI整合到CRM，AI驱动销售效率翻倍
+
+| 工具 | 描述 | AI 特色 | 访问 | 定价 | 链接 |
+|------|------|---------|------|------|------|
+| **Salesforce Einstein** 🏆🏢 | 企业级CRM霸主，AI能力9.5/10 | 预测性线索评分、交易优先级、邮件生成、通话总结 | 🌍 | 💳 $25-150/月 | [salesforce.com](https://www.salesforce.com/) |
+| **HubSpot** 🔥 | 中小企业首选，Breeze AI套件 | 任务管理、工作流自动化、CRM数据enrichment | 🌍 | 💰 免费起 | [hubspot.com](https://www.hubspot.com/) |
+| **Pipedrive** | 销售团队专用，看板式CRM | 预测赢单概率、识别不活跃交易、智能提醒 | 🌍 | 💳 $15-39/月 | [pipedrive.com](https://www.pipedrive.com/) |
+| **Clay** 🔥🆕 | 数据enrichment神器，SDR必备 | 实时数据抓取、融资/人事变动信号、自动更新 | 🌍 | 💳 | [clay.com](https://www.clay.com/) |
+| **Apollo.io** | 销售智能平台 | 潜客发现、邮件序列、数据enrichment | 🌍 | 💰 免费起 | [apollo.io](https://www.apollo.io/) |
+| **Gong** 🏢 | 收入智能平台 | 通话分析、交易洞察、销售辅导 | 🌍 | 💳 | [gong.io](https://www.gong.io/) |
+| **纷享销客** 🇨🇳 | 国产CRM领导者 | AI线索评分、智能外呼 | 🇨🇳 | 💳 | [fxiaoke.com](https://www.fxiaoke.com/) |
+
+---
+
+## 📱 AI 社交媒体管理
+
+> 2025年社交媒体AR/VR沉浸体验普及，AI个性化内容成标配
+
+| 工具 | 描述 | AI 特色 | 访问 | 定价 | 链接 |
+|------|------|---------|------|------|------|
+| **Hootsuite** 🏆 | 最流行，2024收购Talkwalker | OwlyWriter AI文案生成、AI聊天机器人80%自动回复 | 🌍 | 💳 $99/月起 | [hootsuite.com](https://www.hootsuite.com/) |
+| **Sprout Social** 🏢 | 企业级分析，TrustRadius 2025最佳 | 情感分析、竞品对标、最佳发布时间、AI标签建议 | 🌍 | 💳 高端定价 | [sproutsocial.com](https://sproutsocial.com/) |
+| **Buffer** 💰 | 最实惠，小团队友好 | 预测性参与分析、AI助手生成创意 | 🌍 | 💰 免费/$6/月 | [buffer.com](https://buffer.com/) |
+| **Later** | 视觉优先，Instagram/TikTok专家 | AI最佳发布时间、标签建议、链接优化 | 🌍 | 💳 | [later.com](https://later.com/) |
+| **FeedHive** 🆕 | AI原生社媒工具 | 内容回收、病毒式预测、条件分支发布 | 🌍 | 💳 | [feedhive.com](https://www.feedhive.com/) |
+| **新榜** 🇨🇳 | 国产新媒体平台 | 热点追踪、内容分析 | 🇨🇳 | 💳 | [newrank.cn](https://www.newrank.cn/) |
+
+---
+
+## 🔧 AI 低代码/无代码
+
+> 无需编程，用AI快速构建应用
+
+| 工具 | 描述 | AI 特色 | 访问 | 定价 | 链接 |
+|------|------|---------|------|------|------|
+| **Bubble** 🏆 | 评分最高(4.0)，6300+集成 | AI功能免费包含，全栈应用构建 | 🌍 | 💳 $29-349/月 | [bubble.io](https://bubble.io/) |
+| **Webflow** 🔥 | 设计师首选，$40亿估值 | AI助手样式/动画、AI写博客+SEO | 🌍 | 💳 $14-39/月 | [webflow.com](https://webflow.com/) |
+| **Retool** 🏢 | 内部工具专家 | 拖拽式构建，数据库连接，企业级 | 🌍 | 💰 免费/$49/月 | [retool.com](https://retool.com/) |
+| **FlutterFlow** | 移动端首选 | 相机访问等原生功能，Flutter输出 | 🌍 | 💳 | [flutterflow.io](https://flutterflow.io/) |
+| **Softr** | Airtable/Sheets应用 | 数据转Web应用，客户门户 | 🌍 | 💳 | [softr.io](https://www.softr.io/) |
+| **Base44** 🆕 | 一体化AI构建 | 描述想法自动生成应用，无需外部服务 | 🌍 | 💳 | [base44.com](https://base44.com/) |
+| **轻流** 🇨🇳 | 国产无代码平台 | 企业级业务应用 | 🇨🇳 | 💳 | [qingflow.com](https://qingflow.com/) |
+
+---
+
+## 🛒 AI 电商与零售
+
+> AI电商市场2025年$90亿，年增24%，AI实施企业销售增30-40%
+
+### 个性化与推荐
+
+| 工具 | 描述 | 访问 | 定价 | 链接 |
+|------|------|------|------|------|
+| **Dynamic Yield** 🏆 | Mastercard旗下，实时行为分析 | 🌍 | 💳 | [dynamicyield.com](https://www.dynamicyield.com/) |
+| **Bloomreach** 🏆 | Loomi AI引擎，企业级首选，+30%收入 | 🌍 | 💳 | [bloomreach.com](https://www.bloomreach.com/) |
+| **Vue.ai** | 计算机视觉+NLP，时尚/家居强项 | 🌍 | 💳 | [vue.ai](https://vue.ai/) |
+| **Algonomy** | 实时产品发现，机器学习推荐 | 🌍 | 💳 | [algonomy.com](https://www.algonomy.com/) |
+| **Nosto** | 电商个性化，易于使用 | 🌍 | 💳 | [nosto.com](https://www.nosto.com/) |
+| **Insider** 🔥 | 智能推荐，Avon AOV提升11% | 🌍 | 💳 | [useinsider.com](https://useinsider.com/) |
+| **Clerk.io** | 中小企业AI搜索推荐 | 🌍 | 💳 | [clerk.io](https://www.clerk.io/) |
+
+### 视觉搜索与发现
+
+| 工具 | 描述 | 访问 | 链接 |
+|------|------|------|------|
+| **Syte** | 计算机视觉，上传图片找相似产品 | 🌍💳 | [syte.ai](https://www.syte.ai/) |
+| **Klevu** | AI搜索，区域偏好适配 | 🌍💳 | [klevu.com](https://www.klevu.com/) |
+| **Fast Simon** | 电商搜索+merchandising | 🌍💳 | [fastsimon.com](https://www.fastsimon.com/) |
+
+---
+
+## 👥 AI HR 与招聘
+
+> AI招聘市场2025年$81.6亿，2034年达$307.7亿，CAGR 15.94%
+
+| 工具 | 描述 | AI 特色 | 访问 | 定价 | 链接 |
+|------|------|---------|------|------|------|
+| **HireVue** 🏆 | 视频面试先驱，减少60%初筛时间 | AI评估打分、科学化招聘测试 | 🌍 | 💳 | [hirevue.com](https://www.hirevue.com/) |
+| **Eightfold AI** 🔥🏢 | 人才智能平台，减少偏见 | 深度学习匹配、内部流动、继任规划 | 🌍 | 💳 | [eightfold.ai](https://eightfold.ai/) |
+| **Pymetrics** (Harver) | 神经科学游戏评估 | 软技能测量、AI匹配岗位画像 | 🌍 | 💳 | [harver.com](https://harver.com/) |
+| **Paradox** | AI招聘助手，高量招聘 | 聊天式应聘、自动面试安排 | 🌍 | 💳 | [paradox.ai](https://www.paradox.ai/) |
+| **Fetcher** | AI驱动sourcing | 自动外联、候选人发现 | 🌍 | 💳 | [fetcher.ai](https://www.fetcher.ai/) |
+| **Beamery** | 人才管理平台 | 技能图谱、人才池管理 | 🌍 | 💳 | [beamery.com](https://beamery.com/) |
+| **Moka** 🇨🇳 | 国产智能招聘 | ATS+AI筛选 | 🇨🇳 | 💳 | [mokahr.com](https://www.mokahr.com/) |
+
+---
+
 ## 📈 AI 营销与 SEO
 
 | 工具 | 描述 | 访问 | 定价 | 链接 |
@@ -517,6 +640,64 @@
 
 ---
 
+## 🛡️ AI 保险科技
+
+> AI保险市场2031年达$457亿，CAGR 32.56%，AI降低欺诈30%
+
+| 工具 | 描述 | AI 特色 | 访问 | 定价 | 链接 |
+|------|------|---------|------|------|------|
+| **Shift Technology** 🏆 | 100+保险商使用，最大保险AI数据科学团队 | 实时风险评分、欺诈检测、核保减30%时间 | 🌍 | 💳 | [shift-technology.com](https://www.shift-technology.com/) |
+| **Sprout.ai** 🔥 | 理赔/核保AI超级引擎 | 核保节省40%成本，公平理赔 | 🌍 | 💳 | [sprout.ai](https://sprout.ai/) |
+| **Zelros** | CRM集成，25%更快决策 | 更好报价选择、个性化推荐 | 🌍 | 💳 | [zelros.com](https://www.zelros.com/) |
+| **Planck** | 商业保险，扫描50+公开来源 | 无需填表评估风险 | 🌍 | 💳 | [planckdata.com](https://www.planckdata.com/) |
+| **Federato** | RiskOps平台 | 实时风险选择、组合管理 | 🌍 | 💳 | [federato.ai](https://www.federato.ai/) |
+| **Gradient AI** | 工伤/商业车险专家 | 千万级保单数据训练 | 🌍 | 💳 | [gradientai.com](https://www.gradientai.com/) |
+| **Sixfold** 🆕 | 生成式AI核保 | 8-9周部署，效率透明 | 🌍 | 💳 | [sixfold.ai](https://www.sixfold.ai/) |
+| **Lemonade** 🔥 | 消费者保险革新者 | 3秒理赔纪录，18项反欺诈算法 | 🌍 | 💳 | [lemonade.com](https://www.lemonade.com/) |
+
+---
+
+## 📦 AI 供应链物流
+
+> Amazon仓库52万+AI机器人，成本降20%，产能+40%
+
+### 需求预测与库存
+
+| 工具 | 描述 | AI 特色 | 访问 | 链接 |
+|------|------|---------|------|------|
+| **Amazon SageMaker** 🏢 | 企业级ML平台 | 需求预测95%准确率 | 🌍💳 | [aws.amazon.com/sagemaker](https://aws.amazon.com/sagemaker/) |
+| **Blue Yonder** 🏆 | Panasonic旗下，供应链龙头 | 端到端优化、智能履约 | 🌍💳 | [blueyonder.com](https://blueyonder.com/) |
+| **o9 Solutions** | AI驱动计划平台 | 需求感知、供应规划 | 🌍💳 | [o9solutions.com](https://o9solutions.com/) |
+| **Kinaxis** | 供应链编排 | 并发规划、快速响应 | 🌍💳 | [kinaxis.com](https://www.kinaxis.com/) |
+
+### 仓储与物流
+
+| 工具 | 描述 | AI 特色 | 访问 | 链接 |
+|------|------|---------|------|------|
+| **Symbotic** 🔥 | Walmart合作，仓储自动化 | AI编排机器人 | 🌍💳 | [symbotic.com](https://www.symbotic.com/) |
+| **Dematic** | 智能物流自动化 | AI软件协调仓储 | 🌍💳 | [dematic.com](https://www.dematic.com/) |
+| **AutoScheduler** | 百事可乐使用，+12%产能 | 劳动力/时间/空间优化 | 🌍💳 | [autoscheduler.ai](https://www.autoscheduler.ai/) |
+| **FourKites** | 实时供应链可视化 | 预测ETA、异常检测 | 🌍💳 | [fourkites.com](https://www.fourkites.com/) |
+| **准时达** 🇨🇳 | 富士康物流科技 | 智能调度优化 | 🇨🇳💳 | [jusda.com](https://www.jusda.com/) |
+
+---
+
+## ✈️ AI 旅游酒店
+
+> 2025年旅游AI投资占VC 45%，AI使预订转化率+20%
+
+| 工具 | 描述 | AI 特色 | 访问 | 定价 | 链接 |
+|------|------|---------|------|------|------|
+| **Layla** 🔥🆕 | AI旅行规划师，百万用户信赖 | 完整行程：机票+酒店+活动+餐饮 | 🌍 | 💰 | [layla.ai](https://layla.ai/) |
+| **Hopper** 🏆 | AI价格预测95%准确 | "买/持有/等待"建议 | 🌍 | 💰 | [hopper.com](https://www.hopper.com/) |
+| **Trip.com AI** | 携程集团，AI行程规划 | 自动改签、延误处理 | 🌍 | 💳 | [trip.com](https://www.trip.com/) |
+| **Navan** 🏢 | 商旅管理，预测性推荐 | 成本优化、政策合规 | 🌍 | 💳 | [navan.com](https://navan.com/) |
+| **FLYR Hospitality** | 酒店收益管理 | 动态定价、需求预测 | 🌍 | 💳 | [flyrlabs.com](https://www.flyrlabs.com/) |
+| **Hilton Digital Key** | 希尔顿AI入住 | 手机选房/开门/办理 | 🌍 | - | [hilton.com](https://www.hilton.com/) |
+| **飞猪AI** 🇨🇳 | 阿里旅行AI助手 | 智能推荐、行程规划 | 🇨🇳 | 💰 | [fliggy.com](https://www.fliggy.com/) |
+
+---
+
 ## 📊 AI 数据科学
 
 | 工具 | 描述 | 访问 | 定价 | 链接 |
@@ -537,6 +718,106 @@
 | **Photomath** | AI数学解题 | 🌍 | 💳 | [photomath.com](https://photomath.com/) |
 | **Socratic** | Google AI作业助手 | 🌍 | 💰 | [socratic.org](https://socratic.org/) |
 | **网易有道Hi Echo** 🇨🇳 | AI英语口语 | 🇨🇳 | 💳 | [youdao.com](https://www.youdao.com/) |
+
+---
+
+## 🏛️ AI 建筑设计
+
+> AI正在革新建筑与室内设计，从概念到施工全流程
+
+### 建筑概念设计
+
+| 工具 | 描述 | AI 特色 | 访问 | 定价 | 链接 |
+|------|------|---------|------|------|------|
+| **Midjourney** 🏆 | Zaha Hadid/MVRDV等顶级事务所使用 | 建筑概念可视化、风格探索 | 🪜 | 💳 $10/月起 | [midjourney.com](https://www.midjourney.com/) |
+| **Maket** 🔥 | 秒级生成平面图 | 合规检查、zoning适配、客户偏好 | 🌍 | 💳 | [maket.ai](https://www.maket.ai/) |
+| **ArchiGAN** 🌟 | GAN生成建筑方案 | 空间配置、形态变化快速探索 | 🌍 | 💰 | [archigan.com](https://archigan.com/) |
+| **TestFit** | 快速可行性分析 | 地块测试、停车布局、massing | 🌍 | 💳 | [testfit.io](https://testfit.io/) |
+| **ARCHITEChTURES** | 合规平面图生成 | 自动满足法规要求 | 🌍 | 💳 | [architechtures.com](https://www.architechtures.com/) |
+| **Autodesk Forma** 🆕 | 早期场地分析 | 日照、风环境、能耗模拟 | 🌍 | 💳 | [autodesk.com/forma](https://www.autodesk.com/products/forma/) |
+
+### 室内设计
+
+| 工具 | 描述 | 访问 | 定价 | 链接 |
+|------|------|------|------|------|
+| **Planner 5D** | AI室内设计，VR支持 | 🌍 | 💳 | [planner5d.com](https://planner5d.com/) |
+| **Homestyler** 🇨🇳 | 阿里旗下，AI家装设计 | 🇨🇳 | 💰 | [homestyler.com](https://www.homestyler.com/) |
+| **酷家乐** 🇨🇳🔥 | 国产家装设计领导者 | 🇨🇳 | 💳 | [kujiale.com](https://www.kujiale.com/) |
+
+### 渲染与可视化
+
+| 工具 | 描述 | 访问 | 链接 |
+|------|------|------|------|
+| **Veras** | BIM插件AI渲染 | 🌍💳 | [evolvelab.io/veras](https://evolvelab.io/veras) |
+| **Lumion AI** | 建筑可视化 | 🌍💳 | [lumion.com](https://lumion.com/) |
+| **D5 Render** 🇨🇳 | 国产实时渲染 | 🇨🇳💳 | [d5render.com](https://www.d5render.com/) |
+
+---
+
+## 🎮 AI 游戏开发
+
+> AI游戏开发市场2025年$32亿，2035年达$588亿，90%工作室使用AI
+
+### NPC 行为与对话
+
+| 工具 | 描述 | AI 特色 | 访问 | 链接 |
+|------|------|---------|------|------|
+| **Inworld AI** 🔥🏆 | AI角色引擎，Unity/Unreal SDK | 上下文对话、记忆系统、情感适应 | 🌍💳 | [inworld.ai](https://www.inworld.ai/) |
+| **Convai** | 实时AI对话NPC | 自由问答、情境响应 | 🌍💳 | [convai.com](https://www.convai.com/) |
+| **Unity ML-Agents** 🌟 | Unity官方ML工具包 | 深度强化学习、模仿学习 | 🌍💰 | [unity.com/ml-agents](https://unity.com/products/machine-learning-agents) |
+| **Havok AI** | 高级寻路与行为 | 复杂环境NPC智能 | 🌍💳 | [havok.com](https://www.havok.com/) |
+
+### 程序化生成
+
+| 工具 | 描述 | 访问 | 链接 |
+|------|------|------|------|
+| **Promethean AI** 🔥 | 世界构建自动化 | 🌍💳 | [prometheanai.com](https://www.prometheanai.com/) |
+| **3D AI Studio** | AI生成3D模型/纹理/地形 | 🌍💳 | [3daistudio.com](https://www.3daistudio.com/) |
+| **Houdini AI** 🏢 | 程序化游戏环境 | 🌍💳 | [sidefx.com](https://www.sidefx.com/) |
+| **Scenario** | AI游戏资产生成 | 🌍💳 | [scenario.com](https://www.scenario.com/) |
+
+### 引擎AI功能
+
+| 引擎 | AI 特色 | 链接 |
+|------|---------|------|
+| **Unreal Engine 5** | 行为树、MetaHuman AI、ML集成 | [unrealengine.com](https://www.unrealengine.com/) |
+| **Unity** | Muse AI、Sentis推理引擎 | [unity.com](https://unity.com/) |
+| **Godot** 🌟 | 开源，AI插件生态 | [godotengine.org](https://godotengine.org/) |
+
+---
+
+## 🔬 AI 科研工具
+
+> 73.6%研究者使用AI工具，可减少50%文献综述时间
+
+### 文献发现与分析
+
+| 工具 | 描述 | AI 特色 | 访问 | 定价 | 链接 |
+|------|------|---------|------|------|------|
+| **Elicit** 🔥🏆 | AI研究助手，Ought出品 | 问题驱动论文检索、数据提取、30%更高准确率 | 🌍 | 💰 免费起 | [elicit.com](https://elicit.com/) |
+| **Consensus** 🔥 | 证据共识发现 | 论文支持/反对/中立分析 | 🌍 | 💰 免费起 | [consensus.app](https://consensus.app/) |
+| **SciSpace** | 2.8亿论文，90%时间节省 | 与论文对话、方法解释 | 🌍 | 💳 | [scispace.com](https://typeset.io/) |
+| **Semantic Scholar** 🌟 | Allen AI，语义搜索 | AI生成摘要、引用分析 | 🌍 | 💰 | [semanticscholar.org](https://www.semanticscholar.org/) |
+| **Connected Papers** | 论文关系图谱 | 可视化发现相关研究 | 🌍 | 💳 | [connectedpapers.com](https://www.connectedpapers.com/) |
+| **Research Rabbit** | 个性化论文推荐 | 构建研究收藏、发现新论文 | 🌍 | 💰 | [researchrabbit.ai](https://www.researchrabbit.ai/) |
+| **Litmaps** | 文献图谱 | 种子论文发现网络 | 🌍 | 💳 | [litmaps.com](https://www.litmaps.com/) |
+
+### 写作与引用
+
+| 工具 | 描述 | 访问 | 链接 |
+|------|------|------|------|
+| **Paperpal** | 学术写作润色 | 🌍💳 | [paperpal.com](https://paperpal.com/) |
+| **Writefull** | 学术英文改进 | 🌍💳 | [writefull.com](https://www.writefull.com/) |
+| **Scite** | 智能引用分析 | 🌍💳 | [scite.ai](https://scite.ai/) |
+| **Zotero** 🌟 | 开源文献管理+AI插件 | 🌍💰 | [zotero.org](https://www.zotero.org/) |
+
+### 科学计算
+
+| 工具 | 描述 | 访问 | 链接 |
+|------|------|------|------|
+| **Wolfram Alpha** 🏆 | 计算知识引擎 | 🌍💳 | [wolframalpha.com](https://www.wolframalpha.com/) |
+| **Julius AI** 🆕 | 数据分析AI | 🌍💳 | [julius.ai](https://julius.ai/) |
+| **Paperguide** | 全流程研究助手 | 🌍💳 | [paperguide.ai](https://paperguide.ai/) |
 
 ---
 
@@ -603,6 +884,64 @@
 | **LM Studio** | 本地模型客户端 | [lmstudio.ai](https://lmstudio.ai/) |
 | **vLLM** | 高性能推理引擎 | [vllm.ai](https://vllm.ai/) |
 | **Jan** | 本地AI客户端 | [jan.ai](https://jan.ai/) |
+
+---
+
+## 🖥️ AI 硬件与芯片
+
+> 2025年AI基础设施投资$3800亿+，NVIDIA占AI加速芯片80%市场
+
+### 国际AI芯片
+
+| 芯片/厂商 | 描述 | 规格 | 适用场景 |
+|-----------|------|------|----------|
+| **NVIDIA H200** 🏆 | Hopper架构升级，内存优化 | 141GB HBM3e，4.8TB/s带宽 | 大规模AI训练 |
+| **NVIDIA Blackwell B200** 🆕 | 2025年最新旗舰 | 192GB，8TB/s带宽，30倍能效提升 | 下一代AI训练 |
+| **AMD MI300X** 🔥 | NVIDIA挑战者 | 192GB HBM3（比H100多）| Meta 100% Llama 405B流量 |
+| **AMD MI350X** 🆕 | 2025年中发布 | FP4/FP6精度，2.7倍性能提升 | 对标Blackwell |
+| **Intel Gaudi 3** | 性价比之选 | 比H100便宜30-40%，600W功耗 | 大规模部署 |
+| **AWS Trainium2** | 云原生AI芯片 | 30-40%性价比提升 | AWS生态 |
+| **Google TPU v5p** | Gemini背后算力 | Pod级部署 | Google Cloud |
+
+### 国产AI芯片 🇨🇳
+
+> 2025年上半年国产AI芯片出货190万+张，本土品牌占35%市场
+
+| 芯片/厂商 | 描述 | 特点 | 市场地位 |
+|-----------|------|------|----------|
+| **华为昇腾910C** 🔥🏆 | 2025年Q1量产，智算中心79%份额 | 自研CANN生态，自主可控 | 国产第一 |
+| **寒武纪MLU** | 2025H1营收28.81亿，同比+4347% | Neuware自研生态，推理卡 | 第一梯队 |
+| **海光DCU** | 2025H1营收54.64亿，同比+45% | 兼容x86/ROCm，通用性强 | 第一梯队 |
+| **摩尔线程MTT S5000** 🆕 | 2025年3月量产，首批FP8 | 性能提升30%，GPU集群 | 快速崛起 |
+| **沐曦** | 高端训练卡突破 | 对标NVIDIA高端 | 1%市场份额 |
+| **壁仞科技** | 高端训练芯片 | 通用GPU路线 | 技术领先 |
+| **昆仑芯** | 百度生态 | 云端部署 | 生态整合 |
+| **平头哥** | 阿里生态 | 自研架构 | 生态整合 |
+
+---
+
+## 🤖 AI 人形机器人
+
+> 2025年人形机器人元年，Tesla/Figure/Agility开始规模化测试
+
+| 机器人 | 公司 | 描述 | 预计价格 | 状态 |
+|--------|------|------|----------|------|
+| **Optimus Gen 3** 🔥 | Tesla | 2025年10月功夫/做饭/清洁演示，观察学习 | $20,000-30,000 | 2025年产5000-10000台 |
+| **Figure 02** 🔥 | Figure AI | OpenAI合作，1.7m/70kg，16自由度双手 | $100,000+ | $10亿融资2025 |
+| **Atlas** 🏆 | Boston Dynamics | 电动版2024发布，敏捷性最强 | $140,000-150,000 | 2026-2028商用 |
+| **Digit** | Agility Robotics | Amazon仓储使用，GXO合作 | $100,000+ | 商业部署中 |
+| **Unitree H1** 🇨🇳🔥 | 宇树科技 | 国产领先，四足+人形 | $90,000 | 量产中 |
+| **Walker S** 🇨🇳 | 优必选 | CES 2024最佳创新 | - | 商业测试 |
+| **XBot-L** 🇨🇳🆕 | 小鹏 | 车企跨界，AI视觉 | - | 研发中 |
+
+### 应用场景
+
+| 场景 | 代表企业/机器人 | 进展 |
+|------|----------------|------|
+| **工厂制造** | Tesla Optimus (特斯拉工厂) | 内部测试中 |
+| **物流仓储** | Digit (Amazon仓库) | 商业部署 |
+| **汽车制造** | Atlas (Hyundai Georgia工厂) | 2025年测试 |
+| **服务接待** | Walker S, Pepper | 商业应用 |
 
 ---
 
