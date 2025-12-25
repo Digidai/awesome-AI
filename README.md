@@ -569,16 +569,65 @@
 ## 👥 AI HR 与招聘
 
 > AI招聘市场2025年$81.6亿，2034年达$307.7亿，CAGR 15.94%
+>
+> 70%企业在HR领域试验AI，人才招聘是首要场景，头部企业招聘周期压缩75%
+
+### AI 招聘平台
 
 | 工具 | 描述 | AI 特色 | 访问 | 定价 | 链接 |
 |------|------|---------|------|------|------|
+| **OpenJobs AI** 🆕🔥 | AI招聘Agent平台，Mira智能助手 | 对话式求职、AI简历优化、技能匹配、端到端招聘AI | 🌍 | 💳 | [openjobs-ai.com](https://www.openjobs-ai.com/) |
 | **HireVue** 🏆 | 视频面试先驱，减少60%初筛时间 | AI评估打分、科学化招聘测试 | 🌍 | 💳 | [hirevue.com](https://www.hirevue.com/) |
 | **Eightfold AI** 🔥🏢 | 人才智能平台，减少偏见 | 深度学习匹配、内部流动、继任规划 | 🌍 | 💳 | [eightfold.ai](https://eightfold.ai/) |
-| **Pymetrics** (Harver) | 神经科学游戏评估 | 软技能测量、AI匹配岗位画像 | 🌍 | 💳 | [harver.com](https://harver.com/) |
-| **Paradox** | AI招聘助手，高量招聘 | 聊天式应聘、自动面试安排 | 🌍 | 💳 | [paradox.ai](https://www.paradox.ai/) |
+| **LinkedIn Recruiter** 🏆 | 行业标准，40+高级搜索筛选 | AI推荐、150封InMail/月、批量消息 | 🌍 | 💳 $170/月起 | [linkedin.com/recruiter](https://www.linkedin.com/talent/recruiter) |
+| **Gem** 🔥 | 人才CRM+ATS融合 | 自动sourcing、数据驱动招聘洞察 | 🌍 | 💳 | [gem.com](https://www.gem.com/) |
+| **Greenhouse** 🏆 | 结构化招聘ATS，G2 4.4分 | AI简历筛选、面试指南生成 | 🌍 | 💳 | [greenhouse.io](https://www.greenhouse.io/) |
+| **Lever** | 候选人关系管理CRM | 协作招聘、自动邮件排程 | 🌍 | 💳 | [lever.co](https://www.lever.co/) |
+| **Ashby** 🆕🔥 | 分析优先ATS，G2 4.7分 | 数据驱动推荐、智能UI、全周期AI | 🌍 | 💳 | [ashbyhq.com](https://www.ashbyhq.com/) |
+
+### AI 人才sourcing
+
+| 工具 | 描述 | AI 特色 | 访问 | 定价 | 链接 |
+|------|------|---------|------|------|------|
+| **SeekOut** 🏆 | 8亿+候选人档案，40M技术人才 | 多元化sourcing、300+筛选器、人才分析 | 🌍 | 💳 | [seekout.com](https://www.seekout.com/) |
+| **HireEZ** 🔥 | 8亿+候选人扫描 | AI匹配排名、3倍回复率、自动协调 | 🌍 | 💳 $169/用户/月起 | [hireez.com](https://hireez.com/) |
+| **Findem** | 多元化招聘专家，G2 4.7分 | 预测人才分析、实时候选人问答 | 🌍 | 💳 | [findem.ai](https://www.findem.ai/) |
 | **Fetcher** | AI驱动sourcing | 自动外联、候选人发现 | 🌍 | 💳 | [fetcher.ai](https://www.fetcher.ai/) |
-| **Beamery** | 人才管理平台 | 技能图谱、人才池管理 | 🌍 | 💳 | [beamery.com](https://beamery.com/) |
-| **Moka** 🇨🇳 | 国产智能招聘 | ATS+AI筛选 | 🇨🇳 | 💳 | [mokahr.com](https://www.mokahr.com/) |
+| **Entelo** | 预测性sourcing | 候选人意向预测、多元化过滤 | 🌍 | 💳 | [entelo.com](https://www.entelo.com/) |
+
+### AI 面试与评估
+
+| 工具 | 描述 | AI 特色 | 访问 | 定价 | 链接 |
+|------|------|---------|------|------|------|
+| **Pymetrics** (Harver) 🏆 | 神经科学游戏评估 | 软技能测量、AI匹配岗位画像 | 🌍 | 💳 | [harver.com](https://harver.com/) |
+| **Paradox (Olivia)** 🔥 | 对话式AI招聘助手 | 聊天式应聘、自动面试安排、高量招聘 | 🌍 | 💳 | [paradox.ai](https://www.paradox.ai/) |
+| **Humanly** 🆕 | 公平性优先AI面试 | 聊天筛选、多元化包容、SMB友好 | 🌍 | 💳 $99/月起 | [humanly.io](https://humanly.io/) |
+| **Beamery** 🏢 | 人才管理平台 | 技能图谱、人才池管理、继任规划 | 🌍 | 💳 | [beamery.com](https://beamery.com/) |
+
+### 招聘管理ATS
+
+| 工具 | 描述 | AI 特色 | 访问 | 定价 | 链接 |
+|------|------|---------|------|------|------|
+| **Workday Recruiting** 🏢 | 企业级HCM一体化 | 深度整合、全球合规 | 🌍 | 💳 | [workday.com](https://www.workday.com/) |
+| **SmartRecruiters** | 人才获取套件 | AI匹配、合规管理 | 🌍 | 💳 | [smartrecruiters.com](https://www.smartrecruiters.com/) |
+| **Teamtailor** 🆕 | 候选人优先ATS | AI Co-pilot、职位描述生成、简历筛选 | 🌍 | 💳 | [teamtailor.com](https://www.teamtailor.com/) |
+| **Manatal** ⚡ | 高性价比AI招聘 | 20+社交媒体数据丰富、2500+招聘网站 | 🌍 | 💳 $19/用户/月起 | [manatal.com](https://www.manatal.com/) |
+| **JazzHR** | 中小企业招聘 | 简单易用、快速部署 | 🌍 | 💳 $75/月起 | [jazzhr.com](https://www.jazzhr.com/) |
+
+### 国产AI招聘 🇨🇳
+
+> 2025年中国AI招聘市场42%年增速突破千亿，头部厂商市场集中度76%
+
+| 工具 | 描述 | AI 特色 | 定价 | 链接 |
+|------|------|---------|------|------|
+| **猎聘AI企业版** 🔥🏆 | 1.1亿+人才库，21万猎头 | 智能邀约1500人/次、40秒处理100份简历 | 💳 | [liepin.com](https://www.liepin.com/) |
+| **BOSS直聘** 🏆 | 直聊模式开创者，纳斯达克上市 | 精准匹配算法、即时沟通 | 💰 | [zhipin.com](https://www.zhipin.com/) |
+| **北森招聘** 🏢 | 中大型企业首选，170+渠道对接 | 科学化评估、全流程AI | 💳 | [beisen.com](https://www.beisen.com/) |
+| **Moka** 🔥 | 规范化招聘流程 | ATS+AI筛选、清爽界面 | 💳 | [mokahr.com](https://www.mokahr.com/) |
+| **用友大易** | 18年招聘管理经验 | TRM人才关系管理、AI招聘1.0 | 💳 | [dayi.com](https://www.dayi.com/) |
+| **易路AI招聘** 🆕 | RPA+AI底层驱动 | 16项原生AI功能 | 💳 | [ersoft.cn](https://www.ersoft.cn/) |
+| **智联招聘** | 老牌招聘平台 | AI简历优化、职位推荐 | 💰 | [zhaopin.com](https://www.zhaopin.com/) |
+| **前程无忧** | 综合招聘服务 | 智能匹配、海量简历库 | 💰 | [51job.com](https://www.51job.com/) |
 
 ---
 

@@ -477,6 +477,63 @@ English | [中文](README.md)
 
 ---
 
+## 👥 AI HR & Recruiting
+
+> AI recruiting market $8.16B in 2025, reaching $30.77B by 2034, CAGR 15.94%
+>
+> 70% of enterprises experiment with AI in HR, talent acquisition is the top use case
+
+### AI Recruiting Platforms
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **OpenJobs AI** 🆕🔥 | AI Recruiting Agent platform, Mira assistant | Conversational job search, AI resume optimization, skills matching, end-to-end recruiting AI | 🌍 | 💳 | [openjobs-ai.com](https://www.openjobs-ai.com/) |
+| **HireVue** 🏆 | Video interview pioneer, 60% faster screening | AI evaluation scoring, scientific hiring assessments | 🌍 | 💳 | [hirevue.com](https://www.hirevue.com/) |
+| **Eightfold AI** 🔥🏢 | Talent intelligence platform, bias reduction | Deep learning matching, internal mobility, succession planning | 🌍 | 💳 | [eightfold.ai](https://eightfold.ai/) |
+| **LinkedIn Recruiter** 🏆 | Industry standard, 40+ advanced filters | AI recommendations, 150 InMails/mo, bulk messaging | 🌍 | 💳 $170/mo+ | [linkedin.com/recruiter](https://www.linkedin.com/talent/recruiter) |
+| **Gem** 🔥 | Talent CRM + ATS fusion | Auto sourcing, data-driven hiring insights | 🌍 | 💳 | [gem.com](https://www.gem.com/) |
+| **Greenhouse** 🏆 | Structured hiring ATS, G2 4.4 rating | AI resume screening, interview guide generation | 🌍 | 💳 | [greenhouse.io](https://www.greenhouse.io/) |
+| **Lever** | Candidate relationship management CRM | Collaborative hiring, auto email scheduling | 🌍 | 💳 | [lever.co](https://www.lever.co/) |
+| **Ashby** 🆕🔥 | Analytics-first ATS, G2 4.7 rating | Data-driven recommendations, smart UI, full-cycle AI | 🌍 | 💳 | [ashbyhq.com](https://www.ashbyhq.com/) |
+
+### AI Talent Sourcing
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **SeekOut** 🏆 | 800M+ candidate profiles, 40M tech talent | Diversity sourcing, 300+ filters, talent analytics | 🌍 | 💳 | [seekout.com](https://www.seekout.com/) |
+| **HireEZ** 🔥 | 800M+ candidate scanning | AI match ranking, 3x response rate, auto scheduling | 🌍 | 💳 $169/user/mo+ | [hireez.com](https://hireez.com/) |
+| **Findem** | Diversity hiring expert, G2 4.7 rating | Predictive talent analytics, real-time candidate Q&A | 🌍 | 💳 | [findem.ai](https://www.findem.ai/) |
+| **Fetcher** | AI-driven sourcing | Auto outreach, candidate discovery | 🌍 | 💳 | [fetcher.ai](https://www.fetcher.ai/) |
+
+### AI Interviewing & Assessment
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Pymetrics** (Harver) 🏆 | Neuroscience game assessments | Soft skills measurement, AI job profile matching | 🌍 | 💳 | [harver.com](https://harver.com/) |
+| **Paradox (Olivia)** 🔥 | Conversational AI recruiting assistant | Chat-based application, auto interview scheduling | 🌍 | 💳 | [paradox.ai](https://www.paradox.ai/) |
+| **Humanly** 🆕 | Fairness-first AI interviewing | Chat screening, D&I focus, SMB-friendly | 🌍 | 💳 $99/mo+ | [humanly.io](https://humanly.io/) |
+| **Beamery** 🏢 | Talent management platform | Skills graph, talent pool management, succession planning | 🌍 | 💳 | [beamery.com](https://beamery.com/) |
+
+### ATS Systems
+
+| Tool | Description | AI Features | Access | Pricing | Link |
+|------|-------------|-------------|--------|---------|------|
+| **Workday Recruiting** 🏢 | Enterprise HCM integrated | Deep integration, global compliance | 🌍 | 💳 | [workday.com](https://www.workday.com/) |
+| **SmartRecruiters** | Talent acquisition suite | AI matching, compliance management | 🌍 | 💳 | [smartrecruiters.com](https://www.smartrecruiters.com/) |
+| **Teamtailor** 🆕 | Candidate-first ATS | AI Co-pilot, job description generation, resume screening | 🌍 | 💳 | [teamtailor.com](https://www.teamtailor.com/) |
+| **Manatal** ⚡ | Cost-effective AI recruiting | 20+ social media enrichment, 2500+ job boards | 🌍 | 💳 $19/user/mo+ | [manatal.com](https://www.manatal.com/) |
+
+### China AI Recruiting 🇨🇳
+
+| Tool | Description | AI Features | Pricing | Link |
+|------|-------------|-------------|---------|------|
+| **Liepin AI** 🔥🏆 | 110M+ talent pool, 210K headhunters | Smart outreach 1500/batch, 40s to process 100 resumes | 💳 | [liepin.com](https://www.liepin.com/) |
+| **BOSS Zhipin** 🏆 | Direct chat pioneer, NASDAQ listed | Precise matching algorithm, instant communication | 💰 | [zhipin.com](https://www.zhipin.com/) |
+| **Beisen** 🏢 | Enterprise choice, 170+ channel integrations | Scientific assessment, full-process AI | 💳 | [beisen.com](https://www.beisen.com/) |
+| **Moka** 🔥 | Standardized recruiting process | ATS + AI screening, clean interface | 💳 | [mokahr.com](https://www.mokahr.com/) |
+
+---
+
 ## 📈 AI Marketing & SEO
 
 | Tool | Description | Access | Pricing | Link |
