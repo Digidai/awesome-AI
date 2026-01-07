@@ -1,0 +1,15 @@
+max_concurrency = 16
+max_retries = 1
+timeout = 10
+
+exclude = [
+  "https?://(www\\.)?dayi\\.com/.*",
+  "https?://(www\\.)?guiji\\.ai/.*",
+  "https?://(www\\.)?jusda\\.com/.*",
+  "https?://(www\\.)?minimax\\.chat/.*",
+  "https?://(www\\.)?mofudata\\.com/.*",
+  "https?://(www\\.)?prospera\\.ag/.*",
+  "https?://(www\\.)?speechocean\\.com/.*",
+  "https?://(www\\.)?csm\\.ai/.*",
+  "https?://(www\\.)?play\\.ht/.*"
+]

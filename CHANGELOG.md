@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Changed
+- Updated README badges and "Last Updated" dates to 2026-01-07
+- Switched license from MIT to CC0-1.0 and refreshed README license sections
+- Aligned Awesome submission checklist with the current license
+
 ---
 
 ## [2025-12-25] - Major Content Expansion v5

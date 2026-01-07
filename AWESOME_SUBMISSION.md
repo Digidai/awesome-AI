@@ -13,31 +13,18 @@
 | 默认分支 `main` | ✅ | |
 | Topics: awesome, awesome-list | ✅ | 已添加 |
 | Awesome badge | ✅ | 已有 |
-| 有目录 (Contents) | ⚠️ | 当前叫 "目录"，需改为 "Contents" |
+| 有目录 (Contents) | ✅ | README.md/README-EN.md 已统一为 "Contents" |
 | 有项目描述 | ✅ | |
 | 有贡献指南 | ✅ | CONTRIBUTING.md |
 | 有行为准则 | ✅ | CODE_OF_CONDUCT.md |
-| 许可证 | ⚠️ | 当前 MIT，推荐 CC0 |
+| 许可证 | ✅ | 已使用 CC0-1.0 |
 | awesome-lint 通过 | ⚠️ | 有警告但多为误报 |
 
 ---
 
-## 需要修改的内容
+## 提交前检查
 
-### 1. 许可证 (可选但推荐)
-
-官方强烈推荐 CC0，但 MIT 也可接受。如需更改：
-
-```bash
-# 访问此链接快速添加 CC0
-https://github.com/Digidai/awesome-AI/community/license/new?branch=main&template=cc0-1.0
-```
-
-### 2. 目录标题
-
-将 "## 📋 目录" 改为 "## Contents"（英文版）
-
-### 3. Awesome Badge 位置
+### 1. Awesome Badge 位置
 
 确保 badge 紧跟标题，当前已正确。
 
@@ -99,7 +86,7 @@ cd awesome
 
 ### Step 3: 添加条目
 ```markdown
-- [AI](https://github.com/Digidai/awesome-AI#readme) - AI tools across 50+ categories.
+- [Awesome AI](https://github.com/Digidai/awesome-AI#readme) - AI tools across 50+ categories.
 ```
 
 ### Step 4: 创建 PR
@@ -149,11 +136,11 @@ gh pr create --title "Add Awesome AI" --body "..."
 
 ## 注意事项
 
-1. **不要在标题中使用 "Awesome"** - PR 标题应为 "Add AI" 而非 "Add Awesome AI"
+1. **PR 标题与列表名一致** - 使用 "Add Awesome AI"
 2. **认真 review** - 敷衍的 review 会导致 PR 被拒
 3. **保持耐心** - 官方维护者工作量大
 4. **回应反馈** - 及时修改审核者提出的问题
 
 ---
 
-*Last Updated: 2025-12-25*
+*Last Updated: 2026-01-07*
