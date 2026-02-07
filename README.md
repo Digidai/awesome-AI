@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Digidai/awesome-AI)](https://github.com/Digidai/awesome-AI/issues)
 [![GitHub license](https://img.shields.io/github/license/Digidai/awesome-AI)](https://github.com/Digidai/awesome-AI/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Digidai/awesome-AI/pulls)
-[![Last Updated](https://img.shields.io/badge/Updated-2026--01--07-blue.svg)](https://github.com/Digidai/awesome-AI)
+[![Last Updated](https://img.shields.io/badge/Updated-2026--02--07-blue.svg)](https://github.com/Digidai/awesome-AI)
 
 [English](README-EN.md) | 中文
 
@@ -18,6 +18,7 @@
 
 ## Contents
 
+- [🚀 SEO 快速入口](#-seo-快速入口)
 - [图标说明](#图标说明)
 - [🔥 2025 年度推荐](#-2025-年度推荐)
 - [🤖 AI 对话与智能体](#-ai-对话与智能体)
@@ -78,6 +79,24 @@
 - [🤝 贡献](#-贡献)
 - [🌟 Star History](#-star-history)
 - [📄 License](#-license)
+
+---
+
+## 🚀 SEO 快速入口
+
+- 中文 SEO 页面: [https://digidai.github.io/awesome-AI/](https://digidai.github.io/awesome-AI/)
+- English SEO 页面: [https://digidai.github.io/awesome-AI/en/](https://digidai.github.io/awesome-AI/en/)
+- 高意图检索词: `AI工具导航` `AI工具合集` `AI编程工具` `AI视频生成工具` `AI营销SEO工具`
+- 分类落地页:
+  [AI 对话工具](https://digidai.github.io/awesome-AI/categories/ai-chat-assistants/) /
+  [AI 编程工具](https://digidai.github.io/awesome-AI/categories/ai-coding-assistants/) /
+  [AI 视频工具](https://digidai.github.io/awesome-AI/categories/ai-video-tools/) /
+  [AI 营销与 SEO 工具](https://digidai.github.io/awesome-AI/categories/ai-marketing-seo/)
+- 热门分类直达:
+  [AI 对话与智能体](#-ai-对话与智能体) /
+  [AI 编程助手](#-ai-编程助手) /
+  [AI 视频制作](#-ai-视频制作) /
+  [AI 营销与 SEO](#-ai-营销与-seo)
 
 ---
 
@@ -1473,7 +1492,7 @@
 
 ---
 
-**最后更新**：2026-01-07
+**最后更新**：2026-02-07
 **维护者**：@Digidai
 
 > 💡 **提示**：AI工具日新月异，建议定期查看本页面获取最新信息。

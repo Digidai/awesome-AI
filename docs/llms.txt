@@ -1,0 +1,30 @@
+# Awesome AI
+
+> Curated directory of 750+ AI tools with 50+ categories and bilingual documentation.
+
+site: https://digidai.github.io/awesome-AI/
+repository: https://github.com/Digidai/awesome-AI
+languages: zh-CN, en
+updated: 2026-02-07
+
+primary_pages:
+- https://digidai.github.io/awesome-AI/
+- https://digidai.github.io/awesome-AI/en/
+- https://digidai.github.io/awesome-AI/categories/ai-chat-assistants/
+- https://digidai.github.io/awesome-AI/categories/ai-coding-assistants/
+- https://digidai.github.io/awesome-AI/categories/ai-video-tools/
+- https://digidai.github.io/awesome-AI/categories/ai-marketing-seo/
+- https://digidai.github.io/awesome-AI/en/categories/ai-chat-assistants/
+- https://digidai.github.io/awesome-AI/en/categories/ai-coding-assistants/
+- https://digidai.github.io/awesome-AI/en/categories/ai-video-tools/
+- https://digidai.github.io/awesome-AI/en/categories/ai-marketing-seo/
+- https://github.com/Digidai/awesome-AI/blob/main/README.md
+- https://github.com/Digidai/awesome-AI/blob/main/README-EN.md
+
+focus_topics:
+- ai tools directory
+- ai chat assistants
+- ai coding assistants
+- ai video generation
+- ai office productivity
+- ai marketing seo

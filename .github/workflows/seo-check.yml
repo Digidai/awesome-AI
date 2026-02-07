@@ -1,0 +1,30 @@
+name: SEO Check
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'scripts/check_seo.sh'
+      - 'README.md'
+      - 'README-EN.md'
+      - '.github/workflows/seo-check.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'scripts/check_seo.sh'
+      - 'README.md'
+      - 'README-EN.md'
+      - '.github/workflows/seo-check.yml'
+  workflow_dispatch:
+
+jobs:
+  seo-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate SEO assets
+        run: ./scripts/check_seo.sh

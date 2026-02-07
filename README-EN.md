@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Digidai/awesome-AI)](https://github.com/Digidai/awesome-AI/issues)
 [![GitHub license](https://img.shields.io/github/license/Digidai/awesome-AI)](https://github.com/Digidai/awesome-AI/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Digidai/awesome-AI/pulls)
-[![Last Updated](https://img.shields.io/badge/Updated-2026--01--07-blue.svg)](https://github.com/Digidai/awesome-AI)
+[![Last Updated](https://img.shields.io/badge/Updated-2026--02--07-blue.svg)](https://github.com/Digidai/awesome-AI)
 
 English | [中文](README.md)
 
@@ -18,6 +18,7 @@ English | [中文](README.md)
 
 ## Contents
 
+- [🚀 SEO Quick Start](#-seo-quick-start)
 - [Icon Legend](#icon-legend)
 - [🔥 2025 Top Picks](#-2025-top-picks)
 - [🤖 AI Chat & Assistants](#-ai-chat--assistants)
@@ -78,6 +79,24 @@ English | [中文](README.md)
 - [🤝 Contributing](#-contributing)
 - [🌟 Star History](#-star-history)
 - [📄 License](#-license)
+
+---
+
+## 🚀 SEO Quick Start
+
+- Chinese SEO page: [https://digidai.github.io/awesome-AI/](https://digidai.github.io/awesome-AI/)
+- English SEO page: [https://digidai.github.io/awesome-AI/en/](https://digidai.github.io/awesome-AI/en/)
+- High-intent keywords: `AI tools directory` `best AI tools` `AI coding tools` `AI video tools` `AI marketing SEO tools`
+- Category landing pages:
+  [AI Chat Tools](https://digidai.github.io/awesome-AI/en/categories/ai-chat-assistants/) /
+  [AI Coding Tools](https://digidai.github.io/awesome-AI/en/categories/ai-coding-assistants/) /
+  [AI Video Tools](https://digidai.github.io/awesome-AI/en/categories/ai-video-tools/) /
+  [AI Marketing & SEO Tools](https://digidai.github.io/awesome-AI/en/categories/ai-marketing-seo/)
+- Popular category shortcuts:
+  [AI Chat & Assistants](#-ai-chat--assistants) /
+  [AI Coding Assistants](#-ai-coding-assistants) /
+  [AI Video Production](#-ai-video-production) /
+  [AI Marketing & SEO](#-ai-marketing--seo)
 
 ---
 
@@ -1387,7 +1406,7 @@ If this project helps you, please give it a Star!
 
 ---
 
-**Last Updated**: 2026-01-07
+**Last Updated**: 2026-02-07
 **Maintainer**: @Digidai
 
 > Tips: AI tools evolve daily, check this page regularly for the latest updates.

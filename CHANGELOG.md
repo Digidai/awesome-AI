@@ -6,8 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Added
+- Bilingual SEO landing pages for GitHub Pages: `docs/index.html` and `docs/en/index.html`
+- Keyword-focused bilingual category landing pages under `docs/categories/**` and `docs/en/categories/**`
+- Technical SEO assets: `docs/robots.txt`, `docs/sitemap.xml`, `docs/llms.txt`, `docs/site.webmanifest`, `docs/favicon.svg`
+- `docs/404.html` and `docs/.nojekyll` for crawl-safe error handling and static serving
+- Structured data (`WebSite`, `CollectionPage`, `ItemList`, `FAQPage`) for rich-result readiness
+- SEO automation: `.github/workflows/seo-check.yml`, `.github/workflows/deploy-pages.yml`, and `scripts/check_seo.sh`
+- SEO implementation note: `SEO_ANALYSIS.md`
+
 ### Changed
-- Updated README badges and "Last Updated" dates to 2026-01-07
+- Updated README badges and "Last Updated" dates to 2026-02-07
+- Added SEO quick entry sections to `README.md` and `README-EN.md` for better discoverability
 - Switched license from MIT to CC0-1.0 and refreshed README license sections
 - Aligned Awesome submission checklist with the current license
 

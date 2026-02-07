@@ -1,0 +1,16 @@
+{
+  "name": "Awesome AI Tools",
+  "short_name": "Awesome AI",
+  "start_url": "/awesome-AI/",
+  "scope": "/awesome-AI/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/awesome-AI/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
