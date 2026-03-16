@@ -316,6 +316,7 @@ English | [中文](README.md)
 | **PixVerse** 🆕        | Turbo mode 10s generation                                               | 🌍     | 💳         | [pixverse.ai](https://pixverse.ai/)                              |
 | **Vidu** 🇨🇳🆕        | Shengshu Tech, Tsinghua background, 4s HD video                         | 🇨🇳   | 💳         | [vidu.studio](https://www.vidu.studio/)                          |
 | **Google Veo** 🆕      | Native audio support, enterprise-grade                                  | 🪜     | 💎         | [deepmind.google/veo](https://deepmind.google/technologies/veo/) |
+| **MaxVideoAI**         | Multi-engine AI video platform with public model specs, pricing, and examples | 🌍     | 💳         | [maxvideoai.com/models](https://maxvideoai.com/models)          |
 | **Stable Video** 🌟    | Stability AI open-source video model                                    | 🌍     | 💰         | [stability.ai][stability-ai]                                     |
 
 ### Digital Humans & Avatars
