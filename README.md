@@ -1072,6 +1072,7 @@
 | **TestFit**           | 快速可行性分析                  | 地块测试、停车布局、massing  | 🌍  | 💳        | [testfit.io](https://testfit.io/)                              |
 | **ARCHITEChTURES**    | 合规平面图生成                  | 自动满足法规要求           | 🌍  | 💳        | [architechtures.com](https://www.architechtures.com/)          |
 | **Autodesk Forma** 🆕 | 早期场地分析                   | 日照、风环境、能耗模拟        | 🌍  | 💳        | [autodesk.com/forma](https://www.autodesk.com/products/forma/) |
+| **LandscapioAI** 🆕    | AI庭院与景观设计                | 上传户外照片生成景观/花园改造概念 | 🌍  | 💳        | [landscapioai.com](https://www.landscapioai.com/)             |
 
 ### 室内设计
 
