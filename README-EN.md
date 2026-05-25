@@ -286,6 +286,7 @@ English | [中文](README.md)
 | ---------------------- | ------------------------------------------------------------------------------ | ------ | ---------- | ---------------------------------------------- |
 | **Meshy** 🔥⚡          | All-in-one 3D suite, text-to-3D/image-to-3D/retexture, game asset first choice | 🌍     | 💳 $20/mo+ | [meshy.ai](https://www.meshy.ai/)              |
 | **Tripo AI** 🔥        | Stability AI partnership, instant generation, GLB/FBX/OBJ export               | 🌍     | 💳         | [tripo3d.ai](https://www.tripo3d.ai/)          |
+| **Image3D** 🆕         | Single-image to 3D model generator with GLB, OBJ, STL, and PLY exports         | 🌍     | 💳         | [image3d.io](https://image3d.io/)              |
 | **Rodin (Hyper3D)** 🏆 | Highest quality, best precision, ~$0.75/gen, enterprise-grade                  | 🌍     | 💎         | [hyper3d.ai](https://hyper3d.ai/)              |
 | **Luma Genie**         | Fast text-to-3D, quad mesh, Discord/iOS/Web                                    | 🌍     | 💳         | [lumalabs.ai/genie](https://lumalabs.ai/genie) |
 | **Spline AI** 🆕       | 3D design tool + AI generation, web-based                                      | 🌍     | 💳         | [spline.design](https://spline.design/)        |
