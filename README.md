@@ -286,6 +286,7 @@
 | ---------------------- | ------------------------------------ | ---- | --------- | ---------------------------------------------- |
 | **Meshy** 🔥⚡          | 全能3D生成套件，文生3D+图生3D+重纹理，游戏资产首选        | 🌍   | 💳 $20/月起 | [meshy.ai](https://www.meshy.ai/)              |
 | **Tripo AI** 🔥        | 与Stability AI合作，秒级生成，支持GLB/FBX/OBJ导出 | 🌍   | 💳        | [tripo3d.ai](https://www.tripo3d.ai/)          |
+| **Image3D** 🆕         | 单图生成3D模型，支持导出GLB、OBJ、STL、PLY          | 🌍   | 💳        | [image3d.io](https://image3d.io/)              |
 | **Rodin (Hyper3D)** 🏆 | 质量最高，精度最佳，~$0.75/次，企业级               | 🌍   | 💎        | [hyper3d.ai](https://hyper3d.ai/)              |
 | **Luma Genie**         | 快速文生3D，全四边面网格，Discord/iOS/Web        | 🌍   | 💳        | [lumalabs.ai/genie](https://lumalabs.ai/genie) |
 | **Spline AI** 🆕       | 3D设计工具+AI生成，Web端操作                   | 🌍   | 💳        | [spline.design](https://spline.design/)        |
