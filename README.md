@@ -310,6 +310,7 @@
 | **可灵 Kling** 🔥🆕⚡🏆   | 快手出品，当前体验最佳，镜头控制精准         | 🇨🇳 | 💳        | [kling.kuaishou.com](https://kling.kuaishou.com/)                |
 | **Sora** 🆕            | OpenAI 出品，60秒视频+同步音频+物理真实感 | 🪜   | 💳        | [sora.com](https://sora.com/)                                    |
 | **海螺 AI Hailuo** 🔥🆕  | MiniMax 出品，美学和镜头控制优秀       | 🇨🇳 | 💳        | [hailuoai.com](https://hailuoai.com/)                            |
+| **ImagineClip**        | 文生视频、图生视频与视频转视频，内置创意特效 | 🌍   | 💰        | [imagineclip.com](https://imagineclip.com/video-effects)         |
 | **Runway Gen-3** ⚡     | 专业创作工具包，精确控制+多镜头一致性        | 🪜   | 💳 $12/月起 | [runwayml.com][runwayml-com]                                     |
 | **Pika Labs** 🔥       | 性价比之王，特效功能强大               | 🪜   | 💳 $8/月起  | [pika.art](https://pika.art/)                                    |
 | **Luma Dream Machine** | 高质量视频生成，物理模拟真实             | 🪜   | 💳        | [lumalabs.ai/dream-machine](https://lumalabs.ai/dream-machine)   |
