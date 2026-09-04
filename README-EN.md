@@ -335,6 +335,7 @@ English | [中文](README.md)
 | **CapCut** 🔥    | ByteDance, AI subtitles/voiceover/effects  | 🌍💰   | [capcut.com](https://www.capcut.com/)         |
 | **Descript** 🏆  | Edit video like editing a document         | 🪜💳   | [descript.com](https://www.descript.com/)     |
 | **Opus Clip** 🔥 | AI video clipping, auto short-form content | 🌍💳   | [opus.pro](https://www.opus.pro/)             |
+| **OrkasVideoStudio** 🌟 | Local-first agent video production with CLI, MCP, and editable `plan.json` timelines | 🌍💰 | [GitHub](https://github.com/Orkas-AI/Orkas-VideoStudio) |
 | **Bcut** 🇨🇳    | By Bilibili                                | 🇨🇳💰 | [bcut.bilibili.cn](https://bcut.bilibili.cn/) |
 
 ---
