@@ -233,6 +233,7 @@ English | [中文](README.md)
 | **AgentGPT**     | Configure and deploy AI agents in browser   | 🌍     | 💰      | [agentgpt.reworkd.ai](https://agentgpt.reworkd.ai/) |
 | **Lindy** 🔥     | Personal AI assistant, automate daily tasks | 🌍     | 💳      | [lindy.ai](https://www.lindy.ai/)                   |
 | **Relevance AI** | Enterprise agent building platform          | 🌍     | 💳      | [relevanceai.com](https://relevanceai.com/)         |
+| **Orkas**        | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat | 🌍 | 💰 | [orkas.ai](https://orkas.ai/?source=gh_digidai) |
 | **Coze** 🇨🇳    | ByteDance agent platform                    | 🇨🇳   | 💰      | [coze.cn](https://www.coze.cn/)                     |
 
 ---
