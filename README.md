@@ -233,6 +233,7 @@
 | **AgentGPT**     | 浏览器内配置和部署 AI Agent | 🌍   | 💰  | [agentgpt.reworkd.ai](https://agentgpt.reworkd.ai/) |
 | **Lindy** 🔥     | 个人AI助理，自动化日常任务     | 🌍   | 💳  | [lindy.ai](https://www.lindy.ai/)                   |
 | **Relevance AI** | 企业级 Agent 构建平台     | 🌍   | 💳  | [relevanceai.com](https://relevanceai.com/)         |
+| **Orkas**        | 开源、本地优先的 AI 团队桌面应用，由 Commander 通过一个对话协调专业 Agent | 🌍 | 💰 | [orkas.ai](https://orkas.ai/?source=gh_digidai) |
 | **Coze** 🇨🇳    | 字节跳动 Agent 平台      | 🇨🇳 | 💰  | [coze.cn](https://www.coze.cn/)                     |
 
 ---
