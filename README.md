@@ -335,6 +335,7 @@
 | **CapCut/剪映** 🔥 | 字节跳动，AI字幕/配音/特效 | 🌍💰   | [capcut.com](https://www.capcut.com/)         |
 | **Descript** 🏆  | 像编辑文档一样编辑视频     | 🪜💳   | [descript.com](https://www.descript.com/)     |
 | **Opus Clip** 🔥 | 长视频AI切片，自动生成短视频 | 🌍💳   | [opus.pro](https://www.opus.pro/)             |
+| **OrkasVideoStudio** 🌟 | 本地优先的 Agent 视频制作工具包，提供 CLI、MCP 与可编辑的 `plan.json` 时间线 | 🌍💰 | [GitHub](https://github.com/Orkas-AI/Orkas-VideoStudio) |
 | **必剪** 🇨🇳      | B站出品            | 🇨🇳💰 | [bcut.bilibili.cn](https://bcut.bilibili.cn/) |
 
 ---
