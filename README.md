@@ -1375,6 +1375,7 @@
 | **Papers with Code**            | 论文+代码        | [paperswithcode.com](https://paperswithcode.com/)   |
 | **AI工具集** 🇨🇳                  | 1000+ AI工具导航 | [ai-bot.cn](https://ai-bot.cn/)                     |
 | **Prompt Engineering Guide** 🌟 | Prompt工程指南   | [promptingguide.ai](https://www.promptingguide.ai/) |
+| **AI Words** 🌟 | AI 新概念/术语情报站,每日追踪+证据链,中文解释 | [aiwords.morio.cc](https://aiwords.morio.cc/) |
 
 ### 学习课程
 
