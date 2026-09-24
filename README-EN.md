@@ -1116,6 +1116,7 @@ English | [中文](README.md)
 | **Remini** 🔥       | Old photo restoration expert | Face enhancement, old photo restoration | 🌍     | 💳           | [remini.ai](https://remini.ai/)                                  |
 | **Photoshop AI** 🏆 | Industry standard            | Generative fill, neural filters         | 🌍     | 💳 $22.99/mo | [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) |
 | **Remove.bg**       | One-click cutout             | AI background removal                   | 🌍     | 💳           | [remove.bg][remove-bg]                                           |
+| **PhotoOmni**       | Passport and visa photos     | Country-specific size, background, face-position and image-quality checks, plus optional expert review | 🌍 | 💳 From $5.99 | [photoomni.com](https://photoomni.com/en)                         |
 
 ---
 
