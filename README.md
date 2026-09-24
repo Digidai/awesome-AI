@@ -1211,6 +1211,7 @@
 | **Cleanup.pictures** | 物体移除      | AI智能擦除          | 🌍   | 💳          | [cleanup.pictures][cleanup-pictures]                             |
 | **美图秀秀** 🇨🇳🔥      | 国产图像编辑领导者 | AI美颜，智能抠图       | 🇨🇳 | 💰          | [meitu.com](https://www.meitu.com/)                              |
 | **醒图** 🇨🇳          | 字节跳动图片编辑  | AI修图，滤镜模板       | 🇨🇳 | 💰          | [xingtu.cn](https://www.xingtu.cn/)                              |
+| **PhotoOmni**        | 护照和签证照片   | 按国家要求检查尺寸、背景、面部位置和图像质量，并可选人工复核 | 🌍 | 💳 $5.99起 | [photoomni.com](https://photoomni.com/zh)                        |
 
 ---
 
