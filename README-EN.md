@@ -373,6 +373,7 @@ English | [中文](README.md)
 | **v0** 🔥🆕     | Vercel, natural language to React UI  | 🌍💳   | [v0.dev](https://v0.dev/)           |
 | **Bolt.new** 🆕 | StackBlitz, AI full-stack development | 🌍💳   | [bolt.new](https://bolt.new/)       |
 | **Lovable** 🆕  | AI rapid web app building             | 🌍💳   | [lovable.dev](https://lovable.dev/) |
+| **agent-qa** | Natural-language web, Android and iOS testing with persistent memory, validated self-improvement and MCP | Local; 💰 package free, model fees separate | [vostride.com](https://vostride.com) |
 
 ---
 

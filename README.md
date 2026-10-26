@@ -373,6 +373,7 @@
 | **v0** 🔥🆕     | Vercel，自然语言生成React UI | 🌍💳 | [v0.dev](https://v0.dev/)           |
 | **Bolt.new** 🆕 | StackBlitz，AI全栈开发     | 🌍💳 | [bolt.new](https://bolt.new/)       |
 | **Lovable** 🆕  | AI快速构建Web应用           | 🌍💳 | [lovable.dev](https://lovable.dev/) |
+| **agent-qa** | Web/Android/iOS 自然语言测试；持久记忆与经验证的自我改进，支持 MCP | 本地运行；💰 包免费，模型另计 | [vostride.com](https://vostride.com) |
 
 ---
 
