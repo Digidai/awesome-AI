@@ -1113,6 +1113,7 @@ English | [中文](README.md)
 
 | Tool                | Description                  | AI Features                             | Access | Pricing      | Link                                                             |
 | ------------------- | ---------------------------- | --------------------------------------- | ------ | ------------ | ---------------------------------------------------------------- |
+| **HeirloomPix** | Restore scanned old photos | Repairs scratches and fading | 🌍 | 💎 Photo packs | [heirloompix.com](https://heirloompix.com/) |
 | **Remini** 🔥       | Old photo restoration expert | Face enhancement, old photo restoration | 🌍     | 💳           | [remini.ai](https://remini.ai/)                                  |
 | **Photoshop AI** 🏆 | Industry standard            | Generative fill, neural filters         | 🌍     | 💳 $22.99/mo | [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) |
 | **Remove.bg**       | One-click cutout             | AI background removal                   | 🌍     | 💳           | [remove.bg][remove-bg]                                           |

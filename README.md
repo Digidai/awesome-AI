@@ -1203,6 +1203,7 @@
 
 | 工具                   | 描述        | AI 特色           | 访问   | 定价          | 链接                                                               |
 | -------------------- | --------- | --------------- | ---- | ----------- | ---------------------------------------------------------------- |
+| **HeirloomPix** | 修复扫描的老照片 | 修复划痕与褪色 | 🌍 | 💎 图片套餐 | [heirloompix.com](https://heirloompix.com/) |
 | **Remini** 🔥        | 老照片修复专家   | 人脸增强，老照片修复，2倍放大 | 🌍   | 💳          | [remini.ai](https://remini.ai/)                                  |
 | **Lensa AI**         | 人像编辑      | AI头像生成，美颜滤镜     | 🌍   | 💳          | [prisma-ai.com/lensa](https://prisma-ai.com/lensa)               |
 | **Pixelmator Pro**   | Mac专业编辑   | ML增强，智能修复       | 🍎   | 💳 $49.99   | [pixelmator.com](https://www.pixelmator.com/pro/)                |
