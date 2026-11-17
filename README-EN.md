@@ -356,6 +356,7 @@ English | [中文](README.md)
 | **Tabnine** 🏢           | Enterprise-grade, private deployment support                  | 🌍     | 💳           | [tabnine.com](https://www.tabnine.com/)                               |
 | **Amazon CodeWhisperer** | AWS ecosystem integration                                     | 🌍     | 💰           | [aws.amazon.com/codewhisperer](https://aws.amazon.com/codewhisperer/) |
 | **Replit AI**            | Online IDE + AI                                               | 🌍     | 💳           | [replit.com](https://replit.com/)                                     |
+| **Mel** 🆕               | The agentic terminal: multi-agent, multi-model AI terminal for macOS, Windows, Linux and VS Code, with configurable approvals. Proprietary | 🌍     | 💰/💳 $20/mo | [openmel.dev](https://www.openmel.dev)                                |
 
 ### China-Made Coding Assistants 🇨🇳
 
