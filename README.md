@@ -356,6 +356,7 @@
 | **Tabnine** 🏢           | 企业级，支持私有部署                     | 🌍  | 💳          | [tabnine.com](https://www.tabnine.com/)                               |
 | **Amazon CodeWhisperer** | AWS 生态整合                       | 🌍  | 💰          | [aws.amazon.com/codewhisperer](https://aws.amazon.com/codewhisperer/) |
 | **Replit AI**            | 在线IDE+AI                       | 🌍  | 💳          | [replit.com](https://replit.com/)                                     |
+| **Mel** 🆕               | 智能体终端：多智能体、多模型 AI 终端，支持 macOS/Windows/Linux 和 VS Code，可配置审批 | 🌍  | 💰/💳 $20/月 | [openmel.dev](https://www.openmel.dev)                                |
 
 ### 国产编程助手 🇨🇳
 
