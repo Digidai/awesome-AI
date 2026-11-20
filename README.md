@@ -317,6 +317,7 @@
 | **Vidu** 🇨🇳🆕        | 生数科技，清华系，4秒高清视频            | 🇨🇳 | 💳        | [vidu.studio](https://www.vidu.studio/)                          |
 | **Google Veo** 🆕      | 原生音频支持，企业级                 | 🪜   | 💎        | [deepmind.google/veo](https://deepmind.google/technologies/veo/) |
 | **Stable Video** 🌟    | Stability AI 开源视频模型        | 🌍   | 💰        | [stability.ai][stability-ai]                                     |
+| **TrendMe** 🆕          | 热门 TikTok/Reels 趋势一键生成：上传一张照片，产出 8 或 15 秒竖屏视频 | 🌍   | 💳        | [trendmeviral.com](https://trendmeviral.com/)                    |
 
 ### 数字人与虚拟形象
 

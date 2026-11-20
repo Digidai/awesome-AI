@@ -317,6 +317,7 @@ English | [中文](README.md)
 | **Vidu** 🇨🇳🆕        | Shengshu Tech, Tsinghua background, 4s HD video                         | 🇨🇳   | 💳         | [vidu.studio](https://www.vidu.studio/)                          |
 | **Google Veo** 🆕      | Native audio support, enterprise-grade                                  | 🪜     | 💎         | [deepmind.google/veo](https://deepmind.google/technologies/veo/) |
 | **Stable Video** 🌟    | Stability AI open-source video model                                    | 🌍     | 💰         | [stability.ai][stability-ai]                                     |
+| **TrendMe** 🆕         | Turn a viral TikTok/Reels trend into an 8 or 15 second vertical video from one photo | 🌍     | 💳         | [trendmeviral.com](https://trendmeviral.com/)                    |
 
 ### Digital Humans & Avatars
 
